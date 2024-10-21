@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,  
+    "title": "Hotel Classifications",
+    "sub": [
+      {
+        "name": "5-Star Hotel",
+        "symbol": "/icons/hotel-5star.png",
+        "desc": "Luxury hotels with full amenities"
+      },
+      {
+        "name": "4-Star Hotel",
+        "symbol": "/icons/hotel-4star.png",
+        "desc": "Premium hotels with extensive facilities"
+      },
+      {
+        "name": "3-Star Hotel",
+        "symbol": "/icons/hotel-3star.png",
+        "desc": "Standard hotels with basic amenities"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Road Types",
+    "sub": [
+      {
+        "name": "Main Road",
+        "symbol": "/icons/road-main.png",
+        "desc": "Primary arterial roads"
+      },
+      {
+        "name": "Secondary Road",
+        "symbol": "/icons/road-secondary.png",
+        "desc": "Connecting roads between areas"
+      },
+      {
+        "name": "Local Road",
+        "symbol": "/icons/road-local.png",
+        "desc": "Neighborhood access roads"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "School Types",
+    "sub": [
+      {
+        "name": "SD (Sekolah Dasar)",
+        "symbol": "/icons/school-sd.png",
+        "desc": "Elementary School"
+      },
+      {
+        "name": "SMP (Sekolah Menengah Pertama)",
+        "symbol": "/icons/school-smp.png",
+        "desc": "Junior High School"
+      },
+      {
+        "name": "SMA/SMK",
+        "symbol": "/icons/school-sma.png",
+        "desc": "Senior High School/Vocational School"
+      }
+    ]
+  }
+]

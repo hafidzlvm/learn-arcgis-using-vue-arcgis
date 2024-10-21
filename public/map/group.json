@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "hotels",
+    "title": "Hotels",
+    "order": 1,
+    "enable": true,
+    "icon": "/icons/hotel.png"
+  },
+  {
+    "id": 2,
+    "name": "motels",
+    "title": "Motels",
+    "order": 2,
+    "enable": true,
+    "icon": "/icons/motel.png"
+  },
+
+  {
+    "id": 3,
+    "name": "roads",
+    "title": "Roads",
+    "order": 3,
+    "enable": true,
+    "icon": "/icons/road.png"
+  },
+  {
+    "id": 4,
+    "name": "toll_roads",
+    "title": "Toll Roads",
+    "order": 4,
+    "enable": true,
+    "icon": "/icons/toll.png"
+  },
+
+  {
+    "id": 5,
+    "name": "schools",
+    "title": "Schools",
+    "order": 5,
+    "enable": true,
+    "icon": "/icons/school.png"
+  },
+  {
+    "id": 6,
+    "name": "hospitals",
+    "title": "Hospitals",
+    "order": 6,
+    "enable": true,
+    "icon": "/icons/hospital.png"
+  }
+]

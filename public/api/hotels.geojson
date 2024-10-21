@@ -1,0 +1,2777 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK001",
+        "name": "Jakarta Hotel 1",
+        "stars": 4,
+        "rooms": 223,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.85, Jakarta",
+        "facilities": [
+          "parking",
+          "pool",
+          "spa",
+          "business-center",
+          "gym",
+          "beach-access"
+        ],
+        "phone": "+642248987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.737481,
+          -6.157964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK002",
+        "name": "Jakarta Resort 2",
+        "stars": 2,
+        "rooms": 118,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.163, Jakarta",
+        "facilities": [
+          "meeting-room",
+          "restaurant",
+          "gym",
+          "business-center",
+          "spa"
+        ],
+        "phone": "+6881473617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.837851,
+          -6.22218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK003",
+        "name": "Jakarta Palace 3",
+        "stars": 4,
+        "rooms": 115,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.105, Jakarta",
+        "facilities": [
+          "pool",
+          "gym",
+          "wifi"
+        ],
+        "phone": "+2965289541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.748396,
+          -6.21755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK004",
+        "name": "Jakarta Resort 4",
+        "stars": 3,
+        "rooms": 88,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.187, Jakarta",
+        "facilities": [
+          "beach-access",
+          "meeting-room",
+          "parking"
+        ],
+        "phone": "+7013545498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.837506,
+          -6.201072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK005",
+        "name": "Jakarta Inn 5",
+        "stars": 2,
+        "rooms": 93,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.78, Jakarta",
+        "facilities": [
+          "beach-access",
+          "meeting-room",
+          "parking",
+          "gym"
+        ],
+        "phone": "+7564826889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.789603,
+          -6.179654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK006",
+        "name": "Jakarta Inn 6",
+        "stars": 4,
+        "rooms": 110,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.110, Jakarta",
+        "facilities": [
+          "parking",
+          "spa",
+          "meeting-room",
+          "restaurant",
+          "pool"
+        ],
+        "phone": "+9661762289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.863166,
+          -6.15041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK007",
+        "name": "Jakarta Inn 7",
+        "stars": 4,
+        "rooms": 119,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.51, Jakarta",
+        "facilities": [
+          "parking",
+          "spa",
+          "meeting-room"
+        ],
+        "phone": "+1175577817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.759539,
+          -6.197061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK008",
+        "name": "Jakarta Resort 8",
+        "stars": 5,
+        "rooms": 206,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.175, Jakarta",
+        "facilities": [
+          "restaurant",
+          "wifi",
+          "meeting-room"
+        ],
+        "phone": "+1905874175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.719698,
+          -6.203652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK009",
+        "name": "Jakarta Suites 9",
+        "stars": 3,
+        "rooms": 64,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.9, Jakarta",
+        "facilities": [
+          "parking",
+          "room-service",
+          "spa",
+          "pool",
+          "business-center"
+        ],
+        "phone": "+8695657538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.765279,
+          -6.230054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK010",
+        "name": "Jakarta Inn 10",
+        "stars": 2,
+        "rooms": 93,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.65, Jakarta",
+        "facilities": [
+          "parking",
+          "pool",
+          "gym",
+          "meeting-room",
+          "wifi",
+          "business-center"
+        ],
+        "phone": "+257951337"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.819352,
+          -6.225937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK011",
+        "name": "Jakarta Hotel 11",
+        "stars": 3,
+        "rooms": 123,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.144, Jakarta",
+        "facilities": [
+          "gym",
+          "spa",
+          "room-service",
+          "pool"
+        ],
+        "phone": "+9440661461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.855516,
+          -6.233203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK012",
+        "name": "Jakarta Resort 12",
+        "stars": 5,
+        "rooms": 156,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.126, Jakarta",
+        "facilities": [
+          "business-center",
+          "restaurant",
+          "gym",
+          "wifi",
+          "spa"
+        ],
+        "phone": "+440609409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.852742,
+          -6.248569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK013",
+        "name": "Jakarta Palace 13",
+        "stars": 4,
+        "rooms": 188,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.187, Jakarta",
+        "facilities": [
+          "pool",
+          "meeting-room",
+          "business-center"
+        ],
+        "phone": "+8355821686"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.736138,
+          -6.216939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK014",
+        "name": "Jakarta Palace 14",
+        "stars": 5,
+        "rooms": 170,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.56, Jakarta",
+        "facilities": [
+          "spa",
+          "beach-access",
+          "pool",
+          "meeting-room"
+        ],
+        "phone": "+3079060412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.913217,
+          -6.20307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JAK015",
+        "name": "Jakarta Inn 15",
+        "stars": 3,
+        "rooms": 195,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.67, Jakarta",
+        "facilities": [
+          "meeting-room",
+          "pool",
+          "business-center",
+          "parking"
+        ],
+        "phone": "+5313986794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.947646,
+          -6.20278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON016",
+        "name": "Pontianak Grand Hotel 16",
+        "stars": 3,
+        "rooms": 238,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.27, Pontianak",
+        "facilities": [
+          "pool",
+          "wifi",
+          "spa",
+          "parking",
+          "meeting-room"
+        ],
+        "phone": "+2035109384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.359058,
+          -0.022824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON017",
+        "name": "Pontianak Grand Hotel 17",
+        "stars": 4,
+        "rooms": 126,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.196, Pontianak",
+        "facilities": [
+          "restaurant",
+          "meeting-room",
+          "beach-access",
+          "room-service"
+        ],
+        "phone": "+3708827250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.365194,
+          -0.046301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON018",
+        "name": "Pontianak Suites 18",
+        "stars": 3,
+        "rooms": 173,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.0, Pontianak",
+        "facilities": [
+          "wifi",
+          "restaurant",
+          "room-service",
+          "parking",
+          "meeting-room"
+        ],
+        "phone": "+1571488450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.366531,
+          -0.044517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON019",
+        "name": "Pontianak Inn 19",
+        "stars": 5,
+        "rooms": 78,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.158, Pontianak",
+        "facilities": [
+          "beach-access",
+          "business-center",
+          "restaurant",
+          "wifi",
+          "gym"
+        ],
+        "phone": "+93302130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.347714,
+          -0.039728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON020",
+        "name": "Pontianak Resort 20",
+        "stars": 2,
+        "rooms": 56,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.85, Pontianak",
+        "facilities": [
+          "business-center",
+          "beach-access",
+          "spa",
+          "wifi"
+        ],
+        "phone": "+6379819662"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.305562,
+          -0.018752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON021",
+        "name": "Pontianak Hotel 21",
+        "stars": 5,
+        "rooms": 230,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.171, Pontianak",
+        "facilities": [
+          "room-service",
+          "wifi",
+          "meeting-room",
+          "spa"
+        ],
+        "phone": "+1219096090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.307302,
+          -0.032195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON022",
+        "name": "Pontianak Resort 22",
+        "stars": 3,
+        "rooms": 174,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.57, Pontianak",
+        "facilities": [
+          "restaurant",
+          "business-center",
+          "wifi"
+        ],
+        "phone": "+1604873166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.329216,
+          -0.02572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON023",
+        "name": "Pontianak Suites 23",
+        "stars": 4,
+        "rooms": 242,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.109, Pontianak",
+        "facilities": [
+          "parking",
+          "pool",
+          "meeting-room",
+          "beach-access"
+        ],
+        "phone": "+3813428381"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.336884,
+          -0.045419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON024",
+        "name": "Pontianak Grand Hotel 24",
+        "stars": 3,
+        "rooms": 224,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.102, Pontianak",
+        "facilities": [
+          "business-center",
+          "parking",
+          "pool",
+          "spa",
+          "restaurant",
+          "meeting-room"
+        ],
+        "phone": "+2984918162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.356878,
+          -0.014942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON025",
+        "name": "Pontianak Suites 25",
+        "stars": 2,
+        "rooms": 155,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.19, Pontianak",
+        "facilities": [
+          "spa",
+          "parking",
+          "gym",
+          "room-service",
+          "meeting-room",
+          "business-center"
+        ],
+        "phone": "+1351624923"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.330093,
+          -0.017272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON026",
+        "name": "Pontianak Inn 26",
+        "stars": 3,
+        "rooms": 60,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.20, Pontianak",
+        "facilities": [
+          "spa",
+          "business-center",
+          "parking",
+          "room-service",
+          "gym",
+          "wifi"
+        ],
+        "phone": "+876160373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.319865,
+          -0.030351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON027",
+        "name": "Pontianak Hotel 27",
+        "stars": 2,
+        "rooms": 116,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.162, Pontianak",
+        "facilities": [
+          "wifi",
+          "gym",
+          "pool",
+          "room-service"
+        ],
+        "phone": "+7057291972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.345827,
+          -0.020324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON028",
+        "name": "Pontianak Palace 28",
+        "stars": 3,
+        "rooms": 205,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.20, Pontianak",
+        "facilities": [
+          "wifi",
+          "parking",
+          "pool"
+        ],
+        "phone": "+4731601931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.351267,
+          -0.034125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON029",
+        "name": "Pontianak Suites 29",
+        "stars": 5,
+        "rooms": 76,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.17, Pontianak",
+        "facilities": [
+          "wifi",
+          "pool",
+          "room-service",
+          "business-center"
+        ],
+        "phone": "+5048516155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.313998,
+          -0.033693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON030",
+        "name": "Pontianak Suites 30",
+        "stars": 5,
+        "rooms": 232,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.72, Pontianak",
+        "facilities": [
+          "gym",
+          "beach-access",
+          "business-center",
+          "wifi"
+        ],
+        "phone": "+5857568682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.343913,
+          -0.045265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON031",
+        "name": "Pontianak Grand Hotel 31",
+        "stars": 3,
+        "rooms": 158,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.1, Pontianak",
+        "facilities": [
+          "gym",
+          "spa",
+          "pool",
+          "restaurant"
+        ],
+        "phone": "+7883264667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.323768,
+          -0.024042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON032",
+        "name": "Pontianak Palace 32",
+        "stars": 2,
+        "rooms": 86,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.54, Pontianak",
+        "facilities": [
+          "beach-access",
+          "room-service",
+          "wifi",
+          "restaurant",
+          "parking",
+          "pool"
+        ],
+        "phone": "+1501773488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.368632,
+          -0.043371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON033",
+        "name": "Pontianak Resort 33",
+        "stars": 5,
+        "rooms": 184,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.144, Pontianak",
+        "facilities": [
+          "beach-access",
+          "room-service",
+          "wifi",
+          "restaurant",
+          "parking"
+        ],
+        "phone": "+3133055802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.336927,
+          -0.013145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON034",
+        "name": "Pontianak Resort 34",
+        "stars": 5,
+        "rooms": 249,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.51, Pontianak",
+        "facilities": [
+          "business-center",
+          "meeting-room",
+          "beach-access",
+          "restaurant",
+          "spa",
+          "room-service"
+        ],
+        "phone": "+3854678377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.364042,
+          -0.046415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PON035",
+        "name": "Pontianak Grand Hotel 35",
+        "stars": 5,
+        "rooms": 63,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.186, Pontianak",
+        "facilities": [
+          "parking",
+          "restaurant",
+          "wifi"
+        ],
+        "phone": "+8471418556"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.358532,
+          -0.044789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM036",
+        "name": "Semarang Inn 36",
+        "stars": 4,
+        "rooms": 248,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.145, Semarang",
+        "facilities": [
+          "wifi",
+          "room-service",
+          "beach-access",
+          "gym",
+          "restaurant"
+        ],
+        "phone": "+5549163764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.383778,
+          -6.987133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM037",
+        "name": "Semarang Suites 37",
+        "stars": 2,
+        "rooms": 102,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.85, Semarang",
+        "facilities": [
+          "wifi",
+          "business-center",
+          "restaurant"
+        ],
+        "phone": "+2550613268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.410671,
+          -6.962562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM038",
+        "name": "Semarang Resort 38",
+        "stars": 2,
+        "rooms": 118,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.181, Semarang",
+        "facilities": [
+          "spa",
+          "meeting-room",
+          "restaurant",
+          "business-center",
+          "parking"
+        ],
+        "phone": "+2497583953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.353422,
+          -6.988141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM039",
+        "name": "Semarang Hotel 39",
+        "stars": 4,
+        "rooms": 125,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.19, Semarang",
+        "facilities": [
+          "spa",
+          "meeting-room",
+          "restaurant",
+          "business-center",
+          "parking",
+          "room-service"
+        ],
+        "phone": "+1462442447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.369045,
+          -7.014245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM040",
+        "name": "Semarang Hotel 40",
+        "stars": 5,
+        "rooms": 63,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.157, Semarang",
+        "facilities": [
+          "meeting-room",
+          "business-center",
+          "wifi",
+          "gym",
+          "spa"
+        ],
+        "phone": "+9216097859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.357775,
+          -7.045522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM041",
+        "name": "Semarang Inn 41",
+        "stars": 2,
+        "rooms": 153,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.41, Semarang",
+        "facilities": [
+          "business-center",
+          "meeting-room",
+          "wifi"
+        ],
+        "phone": "+9347124774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.488658,
+          -7.009845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM042",
+        "name": "Semarang Palace 42",
+        "stars": 3,
+        "rooms": 197,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.179, Semarang",
+        "facilities": [
+          "meeting-room",
+          "gym",
+          "room-service",
+          "pool"
+        ],
+        "phone": "+9919361444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.439137,
+          -7.043918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM043",
+        "name": "Semarang Inn 43",
+        "stars": 5,
+        "rooms": 124,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.32, Semarang",
+        "facilities": [
+          "meeting-room",
+          "gym",
+          "room-service"
+        ],
+        "phone": "+7127268383"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.445761,
+          -7.012719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM044",
+        "name": "Semarang Resort 44",
+        "stars": 2,
+        "rooms": 77,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.87, Semarang",
+        "facilities": [
+          "room-service",
+          "restaurant",
+          "wifi",
+          "beach-access",
+          "gym",
+          "parking"
+        ],
+        "phone": "+2391415985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.358142,
+          -7.00672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM045",
+        "name": "Semarang Grand Hotel 45",
+        "stars": 4,
+        "rooms": 192,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.184, Semarang",
+        "facilities": [
+          "wifi",
+          "restaurant",
+          "business-center"
+        ],
+        "phone": "+6382844153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.429644,
+          -7.045597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM046",
+        "name": "Semarang Resort 46",
+        "stars": 5,
+        "rooms": 129,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.56, Semarang",
+        "facilities": [
+          "parking",
+          "wifi",
+          "pool",
+          "beach-access"
+        ],
+        "phone": "+137964220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.388932,
+          -7.010976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM047",
+        "name": "Semarang Resort 47",
+        "stars": 5,
+        "rooms": 201,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.107, Semarang",
+        "facilities": [
+          "wifi",
+          "pool",
+          "beach-access",
+          "gym",
+          "parking"
+        ],
+        "phone": "+4197537925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.462749,
+          -7.031972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM048",
+        "name": "Semarang Inn 48",
+        "stars": 3,
+        "rooms": 184,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.113, Semarang",
+        "facilities": [
+          "wifi",
+          "meeting-room",
+          "pool"
+        ],
+        "phone": "+1892322305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.361464,
+          -6.984687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM049",
+        "name": "Semarang Palace 49",
+        "stars": 4,
+        "rooms": 161,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.42, Semarang",
+        "facilities": [
+          "pool",
+          "spa",
+          "parking",
+          "meeting-room",
+          "room-service"
+        ],
+        "phone": "+665488976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.401823,
+          -7.008255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM050",
+        "name": "Semarang Resort 50",
+        "stars": 5,
+        "rooms": 226,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.18, Semarang",
+        "facilities": [
+          "meeting-room",
+          "parking",
+          "spa",
+          "beach-access",
+          "restaurant"
+        ],
+        "phone": "+7167201058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.401325,
+          -7.024626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM051",
+        "name": "Semarang Inn 51",
+        "stars": 5,
+        "rooms": 100,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.23, Semarang",
+        "facilities": [
+          "wifi",
+          "pool",
+          "room-service",
+          "meeting-room",
+          "gym"
+        ],
+        "phone": "+3874278669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.422906,
+          -6.98606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM052",
+        "name": "Semarang Inn 52",
+        "stars": 3,
+        "rooms": 93,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.91, Semarang",
+        "facilities": [
+          "wifi",
+          "spa",
+          "restaurant",
+          "meeting-room",
+          "parking"
+        ],
+        "phone": "+6250735846"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.388983,
+          -7.004929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM053",
+        "name": "Semarang Hotel 53",
+        "stars": 4,
+        "rooms": 194,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.107, Semarang",
+        "facilities": [
+          "meeting-room",
+          "restaurant",
+          "beach-access",
+          "spa",
+          "wifi",
+          "gym"
+        ],
+        "phone": "+9214298008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.396198,
+          -7.021358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM054",
+        "name": "Semarang Suites 54",
+        "stars": 5,
+        "rooms": 223,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.111, Semarang",
+        "facilities": [
+          "business-center",
+          "meeting-room",
+          "restaurant",
+          "room-service",
+          "parking",
+          "beach-access"
+        ],
+        "phone": "+915778025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.487708,
+          -7.018607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM055",
+        "name": "Semarang Suites 55",
+        "stars": 4,
+        "rooms": 80,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.129, Semarang",
+        "facilities": [
+          "spa",
+          "beach-access",
+          "parking",
+          "pool",
+          "room-service",
+          "restaurant"
+        ],
+        "phone": "+2200047845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39324,
+          -7.037535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM056",
+        "name": "Semarang Suites 56",
+        "stars": 3,
+        "rooms": 114,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.132, Semarang",
+        "facilities": [
+          "room-service",
+          "wifi",
+          "gym",
+          "restaurant"
+        ],
+        "phone": "+548417699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.423058,
+          -7.026354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEM057",
+        "name": "Semarang Suites 57",
+        "stars": 3,
+        "rooms": 171,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.164, Semarang",
+        "facilities": [
+          "pool",
+          "restaurant",
+          "meeting-room",
+          "spa",
+          "gym",
+          "business-center"
+        ],
+        "phone": "+1498586632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.391783,
+          -7.039997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN058",
+        "name": "Singkawang Hotel 58",
+        "stars": 3,
+        "rooms": 210,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.106, Singkawang",
+        "facilities": [
+          "spa",
+          "meeting-room",
+          "business-center",
+          "gym",
+          "parking"
+        ],
+        "phone": "+4632644833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.999256,
+          0.913228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN059",
+        "name": "Singkawang Suites 59",
+        "stars": 4,
+        "rooms": 180,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.161, Singkawang",
+        "facilities": [
+          "meeting-room",
+          "gym",
+          "parking",
+          "business-center"
+        ],
+        "phone": "+6683485655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.006322,
+          0.906592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN060",
+        "name": "Singkawang Resort 60",
+        "stars": 4,
+        "rooms": 183,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.49, Singkawang",
+        "facilities": [
+          "business-center",
+          "parking",
+          "gym"
+        ],
+        "phone": "+8121706784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.976497,
+          0.896265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN061",
+        "name": "Singkawang Resort 61",
+        "stars": 5,
+        "rooms": 96,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.32, Singkawang",
+        "facilities": [
+          "room-service",
+          "gym",
+          "meeting-room"
+        ],
+        "phone": "+9484275997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.982517,
+          0.89555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN062",
+        "name": "Singkawang Resort 62",
+        "stars": 3,
+        "rooms": 182,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.8, Singkawang",
+        "facilities": [
+          "beach-access",
+          "spa",
+          "room-service",
+          "parking",
+          "business-center"
+        ],
+        "phone": "+6356761875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.977132,
+          0.911499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN063",
+        "name": "Singkawang Grand Hotel 63",
+        "stars": 4,
+        "rooms": 192,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.131, Singkawang",
+        "facilities": [
+          "beach-access",
+          "meeting-room",
+          "parking",
+          "business-center"
+        ],
+        "phone": "+9073695838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.958436,
+          0.912906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN064",
+        "name": "Singkawang Hotel 64",
+        "stars": 5,
+        "rooms": 108,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.44, Singkawang",
+        "facilities": [
+          "beach-access",
+          "business-center",
+          "pool",
+          "wifi"
+        ],
+        "phone": "+2690147752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.992268,
+          0.915623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN065",
+        "name": "Singkawang Palace 65",
+        "stars": 3,
+        "rooms": 56,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.71, Singkawang",
+        "facilities": [
+          "wifi",
+          "beach-access",
+          "meeting-room"
+        ],
+        "phone": "+5490306632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.009082,
+          0.903818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN066",
+        "name": "Singkawang Palace 66",
+        "stars": 5,
+        "rooms": 168,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.107, Singkawang",
+        "facilities": [
+          "spa",
+          "beach-access",
+          "wifi",
+          "meeting-room",
+          "business-center"
+        ],
+        "phone": "+9645720487"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.005733,
+          0.914683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN067",
+        "name": "Singkawang Resort 67",
+        "stars": 2,
+        "rooms": 220,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.121, Singkawang",
+        "facilities": [
+          "gym",
+          "spa",
+          "room-service",
+          "business-center",
+          "meeting-room"
+        ],
+        "phone": "+2453191895"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.954706,
+          0.915574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN068",
+        "name": "Singkawang Grand Hotel 68",
+        "stars": 3,
+        "rooms": 212,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.105, Singkawang",
+        "facilities": [
+          "parking",
+          "business-center",
+          "wifi"
+        ],
+        "phone": "+5680009999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.006024,
+          0.903221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN069",
+        "name": "Singkawang Inn 69",
+        "stars": 5,
+        "rooms": 89,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.144, Singkawang",
+        "facilities": [
+          "pool",
+          "beach-access",
+          "business-center",
+          "room-service"
+        ],
+        "phone": "+1929071862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.97201,
+          0.891257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN070",
+        "name": "Singkawang Grand Hotel 70",
+        "stars": 2,
+        "rooms": 119,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.155, Singkawang",
+        "facilities": [
+          "restaurant",
+          "beach-access",
+          "gym",
+          "pool",
+          "business-center"
+        ],
+        "phone": "+6023470059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.965697,
+          0.91396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN071",
+        "name": "Singkawang Palace 71",
+        "stars": 3,
+        "rooms": 164,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.55, Singkawang",
+        "facilities": [
+          "business-center",
+          "parking",
+          "restaurant",
+          "pool",
+          "wifi"
+        ],
+        "phone": "+4162538698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.950145,
+          0.910801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN072",
+        "name": "Singkawang Suites 72",
+        "stars": 2,
+        "rooms": 125,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.123, Singkawang",
+        "facilities": [
+          "spa",
+          "gym",
+          "meeting-room"
+        ],
+        "phone": "+11872155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.000108,
+          0.899607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN073",
+        "name": "Singkawang Grand Hotel 73",
+        "stars": 2,
+        "rooms": 131,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.73, Singkawang",
+        "facilities": [
+          "business-center",
+          "restaurant",
+          "meeting-room",
+          "pool",
+          "parking",
+          "beach-access"
+        ],
+        "phone": "+9198729954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.014345,
+          0.897654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN074",
+        "name": "Singkawang Inn 74",
+        "stars": 5,
+        "rooms": 121,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.80, Singkawang",
+        "facilities": [
+          "meeting-room",
+          "room-service",
+          "spa",
+          "parking"
+        ],
+        "phone": "+7275427496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.96459,
+          0.913159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN075",
+        "name": "Singkawang Inn 75",
+        "stars": 4,
+        "rooms": 113,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.18, Singkawang",
+        "facilities": [
+          "spa",
+          "room-service",
+          "business-center",
+          "parking",
+          "pool",
+          "beach-access"
+        ],
+        "phone": "+7819693050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.981401,
+          0.89038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN076",
+        "name": "Sintang Grand Hotel 76",
+        "stars": 2,
+        "rooms": 227,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.163, Sintang",
+        "facilities": [
+          "beach-access",
+          "parking",
+          "wifi",
+          "meeting-room",
+          "room-service",
+          "gym"
+        ],
+        "phone": "+8836520702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.484125,
+          0.05974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN077",
+        "name": "Sintang Hotel 77",
+        "stars": 2,
+        "rooms": 186,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.56, Sintang",
+        "facilities": [
+          "pool",
+          "restaurant",
+          "room-service",
+          "wifi",
+          "business-center"
+        ],
+        "phone": "+9608572479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.49934,
+          0.063092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN078",
+        "name": "Sintang Hotel 78",
+        "stars": 4,
+        "rooms": 190,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.160, Sintang",
+        "facilities": [
+          "spa",
+          "room-service",
+          "wifi",
+          "parking",
+          "restaurant",
+          "business-center"
+        ],
+        "phone": "+1238508405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.547946,
+          0.056501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN079",
+        "name": "Sintang Suites 79",
+        "stars": 3,
+        "rooms": 53,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.39, Sintang",
+        "facilities": [
+          "beach-access",
+          "restaurant",
+          "meeting-room"
+        ],
+        "phone": "+2802624054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.545885,
+          0.087107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN080",
+        "name": "Sintang Resort 80",
+        "stars": 5,
+        "rooms": 158,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.128, Sintang",
+        "facilities": [
+          "beach-access",
+          "pool",
+          "parking",
+          "restaurant"
+        ],
+        "phone": "+7005681268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.520847,
+          0.097427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN081",
+        "name": "Sintang Hotel 81",
+        "stars": 5,
+        "rooms": 55,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.37, Sintang",
+        "facilities": [
+          "beach-access",
+          "business-center",
+          "meeting-room",
+          "gym",
+          "pool",
+          "wifi"
+        ],
+        "phone": "+7217849844"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.483626,
+          0.070405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN082",
+        "name": "Sintang Resort 82",
+        "stars": 5,
+        "rooms": 126,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.109, Sintang",
+        "facilities": [
+          "beach-access",
+          "business-center",
+          "parking"
+        ],
+        "phone": "+289545477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.464743,
+          0.093454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN083",
+        "name": "Sintang Grand Hotel 83",
+        "stars": 2,
+        "rooms": 185,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.131, Sintang",
+        "facilities": [
+          "meeting-room",
+          "pool",
+          "beach-access"
+        ],
+        "phone": "+3349124679"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.512888,
+          0.05132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN084",
+        "name": "Sintang Resort 84",
+        "stars": 3,
+        "rooms": 231,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.61, Sintang",
+        "facilities": [
+          "spa",
+          "meeting-room",
+          "business-center",
+          "restaurant"
+        ],
+        "phone": "+9527387388"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.468662,
+          0.056925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN085",
+        "name": "Sintang Resort 85",
+        "stars": 4,
+        "rooms": 237,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.94, Sintang",
+        "facilities": [
+          "room-service",
+          "pool",
+          "business-center",
+          "meeting-room"
+        ],
+        "phone": "+5983832920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.497444,
+          0.052143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN086",
+        "name": "Sintang Resort 86",
+        "stars": 3,
+        "rooms": 125,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.4, Sintang",
+        "facilities": [
+          "meeting-room",
+          "beach-access",
+          "room-service",
+          "wifi"
+        ],
+        "phone": "+8110625668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.452817,
+          0.068767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN087",
+        "name": "Sintang Inn 87",
+        "stars": 5,
+        "rooms": 174,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.87, Sintang",
+        "facilities": [
+          "room-service",
+          "beach-access",
+          "restaurant",
+          "wifi",
+          "spa"
+        ],
+        "phone": "+3627204415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.519936,
+          0.087107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN088",
+        "name": "Sintang Resort 88",
+        "stars": 5,
+        "rooms": 98,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.53, Sintang",
+        "facilities": [
+          "meeting-room",
+          "gym",
+          "spa"
+        ],
+        "phone": "+6435401725"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.450336,
+          0.065734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN089",
+        "name": "Sintang Suites 89",
+        "stars": 5,
+        "rooms": 209,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.76, Sintang",
+        "facilities": [
+          "business-center",
+          "room-service",
+          "meeting-room",
+          "gym",
+          "pool",
+          "restaurant"
+        ],
+        "phone": "+4350650073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.536084,
+          0.066851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN090",
+        "name": "Sintang Resort 90",
+        "stars": 5,
+        "rooms": 131,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.18, Sintang",
+        "facilities": [
+          "wifi",
+          "restaurant",
+          "business-center"
+        ],
+        "phone": "+100319075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.456892,
+          0.096379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN091",
+        "name": "Sintang Grand Hotel 91",
+        "stars": 3,
+        "rooms": 240,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.196, Sintang",
+        "facilities": [
+          "business-center",
+          "pool",
+          "restaurant",
+          "parking",
+          "gym",
+          "meeting-room"
+        ],
+        "phone": "+3873306795"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.532599,
+          0.053633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN092",
+        "name": "Sintang Hotel 92",
+        "stars": 2,
+        "rooms": 185,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.61, Sintang",
+        "facilities": [
+          "pool",
+          "business-center",
+          "meeting-room",
+          "gym"
+        ],
+        "phone": "+6804922933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.547294,
+          0.083542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SIN093",
+        "name": "Sintang Palace 93",
+        "stars": 2,
+        "rooms": 100,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.119, Sintang",
+        "facilities": [
+          "beach-access",
+          "meeting-room",
+          "gym",
+          "parking",
+          "room-service"
+        ],
+        "phone": "+6860595896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.530401,
+          0.092484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL094",
+        "name": "Palangkaraya Suites 94",
+        "stars": 4,
+        "rooms": 237,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.87, Palangkaraya",
+        "facilities": [
+          "meeting-room",
+          "business-center",
+          "spa",
+          "pool"
+        ],
+        "phone": "+106584931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.92102,
+          -2.242183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL095",
+        "name": "Palangkaraya Resort 95",
+        "stars": 3,
+        "rooms": 97,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.112, Palangkaraya",
+        "facilities": [
+          "meeting-room",
+          "business-center",
+          "wifi",
+          "restaurant"
+        ],
+        "phone": "+4781483980"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.990544,
+          -2.21278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL096",
+        "name": "Palangkaraya Hotel 96",
+        "stars": 4,
+        "rooms": 140,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.50, Palangkaraya",
+        "facilities": [
+          "restaurant",
+          "business-center",
+          "beach-access",
+          "room-service",
+          "meeting-room"
+        ],
+        "phone": "+9669148053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.92181,
+          -2.248193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL097",
+        "name": "Palangkaraya Suites 97",
+        "stars": 2,
+        "rooms": 69,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.34, Palangkaraya",
+        "facilities": [
+          "gym",
+          "restaurant",
+          "business-center",
+          "room-service",
+          "meeting-room"
+        ],
+        "phone": "+9833290441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.937172,
+          -2.240634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL098",
+        "name": "Palangkaraya Grand Hotel 98",
+        "stars": 5,
+        "rooms": 108,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.182, Palangkaraya",
+        "facilities": [
+          "pool",
+          "beach-access",
+          "restaurant",
+          "room-service"
+        ],
+        "phone": "+7299653217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.945841,
+          -2.249793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL099",
+        "name": "Palangkaraya Inn 99",
+        "stars": 2,
+        "rooms": 232,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.196, Palangkaraya",
+        "facilities": [
+          "pool",
+          "business-center",
+          "spa",
+          "room-service"
+        ],
+        "phone": "+1903709956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.942005,
+          -2.237924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL100",
+        "name": "Palangkaraya Hotel 100",
+        "stars": 3,
+        "rooms": 93,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.168, Palangkaraya",
+        "facilities": [
+          "wifi",
+          "pool",
+          "business-center"
+        ],
+        "phone": "+2581179330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.948094,
+          -2.246438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL101",
+        "name": "Palangkaraya Palace 101",
+        "stars": 4,
+        "rooms": 171,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.41, Palangkaraya",
+        "facilities": [
+          "meeting-room",
+          "parking",
+          "restaurant",
+          "business-center",
+          "gym",
+          "room-service"
+        ],
+        "phone": "+1827370757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.915921,
+          -2.216023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL102",
+        "name": "Palangkaraya Inn 102",
+        "stars": 2,
+        "rooms": 158,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.139, Palangkaraya",
+        "facilities": [
+          "beach-access",
+          "restaurant",
+          "room-service"
+        ],
+        "phone": "+9046870121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.925395,
+          -2.232955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL103",
+        "name": "Palangkaraya Grand Hotel 103",
+        "stars": 5,
+        "rooms": 242,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.42, Palangkaraya",
+        "facilities": [
+          "meeting-room",
+          "spa",
+          "pool"
+        ],
+        "phone": "+3671131566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.949577,
+          -2.210418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL104",
+        "name": "Palangkaraya Grand Hotel 104",
+        "stars": 3,
+        "rooms": 232,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.61, Palangkaraya",
+        "facilities": [
+          "pool",
+          "spa",
+          "restaurant"
+        ],
+        "phone": "+9208948128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.952064,
+          -2.202392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL105",
+        "name": "Palangkaraya Inn 105",
+        "stars": 4,
+        "rooms": 163,
+        "price_range": "900000-2000000",
+        "address": "Jl. Example No.180, Palangkaraya",
+        "facilities": [
+          "business-center",
+          "gym",
+          "beach-access",
+          "parking",
+          "pool"
+        ],
+        "phone": "+5129535815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.906024,
+          -2.238388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL106",
+        "name": "Palangkaraya Hotel 106",
+        "stars": 2,
+        "rooms": 243,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.122, Palangkaraya",
+        "facilities": [
+          "beach-access",
+          "spa",
+          "wifi"
+        ],
+        "phone": "+8115598736"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.974253,
+          -2.218122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL107",
+        "name": "Palangkaraya Inn 107",
+        "stars": 3,
+        "rooms": 204,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.158, Palangkaraya",
+        "facilities": [
+          "spa",
+          "restaurant",
+          "business-center",
+          "pool",
+          "gym"
+        ],
+        "phone": "+2757397549"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.932957,
+          -2.23614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL108",
+        "name": "Palangkaraya Hotel 108",
+        "stars": 5,
+        "rooms": 134,
+        "price_range": "2000000-5000000",
+        "address": "Jl. Example No.180, Palangkaraya",
+        "facilities": [
+          "business-center",
+          "parking",
+          "room-service",
+          "beach-access",
+          "restaurant",
+          "pool"
+        ],
+        "phone": "+5365584260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.976549,
+          -2.20762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PAL109",
+        "name": "Palangkaraya Suites 109",
+        "stars": 3,
+        "rooms": 239,
+        "price_range": "400000-900000",
+        "address": "Jl. Example No.146, Palangkaraya",
+        "facilities": [
+          "meeting-room",
+          "gym",
+          "room-service",
+          "wifi",
+          "spa",
+          "beach-access"
+        ],
+        "phone": "+3522211580"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.92618,
+          -2.248117
+        ]
+      }
+    }
+  ]
+}

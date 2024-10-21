@@ -1,0 +1,6238 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ001",
+        "name": "RSAB Anak Jakarta 1",
+        "type": "Anak",
+        "beds": 305,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.98, Jakarta",
+        "facilities": [
+          "bedah",
+          "PICU",
+          "rehabilitasi",
+          "laboratorium",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+2553460038",
+        "website": "https://rs1.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.74712,
+          -6.214931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ002",
+        "name": "RSU Anak Jakarta 2",
+        "type": "Anak",
+        "beds": 212,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.92, Jakarta",
+        "facilities": [
+          "poli-umum",
+          "rehabilitasi",
+          "NICU",
+          "radiologi",
+          "bedah",
+          "poli-gigi",
+          "ICU"
+        ],
+        "emergency": true,
+        "phone": "+8300806979",
+        "website": "https://rs2.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.929808,
+          -6.231068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ003",
+        "name": "RSIA Ibu dan Anak Jakarta 3",
+        "type": "Ibu dan Anak",
+        "beds": 293,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.157, Jakarta",
+        "facilities": [
+          "farmasi",
+          "poli-umum",
+          "NICU",
+          "hemodialisa",
+          "poli-kandungan",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+3211481601",
+        "website": "https://rs3.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.824989,
+          -6.181847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ004",
+        "name": "RSU Ibu dan Anak Jakarta 4",
+        "type": "Ibu dan Anak",
+        "beds": 245,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.130, Jakarta",
+        "facilities": [
+          "poli-kandungan",
+          "poli-gigi",
+          "ICU",
+          "laboratorium",
+          "rehabilitasi",
+          "gawat-darurat",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+5874294191",
+        "website": "https://rs4.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.859083,
+          -6.245015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ005",
+        "name": "RSUD Orthopedi Jakarta 5",
+        "type": "Orthopedi",
+        "beds": 319,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.109, Jakarta",
+        "facilities": [
+          "poli-umum",
+          "ICU",
+          "farmasi",
+          "bedah",
+          "poli-kandungan",
+          "laboratorium",
+          "rehabilitasi",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+7211749950",
+        "website": "https://rs5.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.823214,
+          -6.163032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ006",
+        "name": "RSUD Kanker Jakarta 6",
+        "type": "Kanker",
+        "beds": 52,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.111, Jakarta",
+        "facilities": [
+          "poli-umum",
+          "ICU",
+          "poli-kandungan",
+          "laboratorium",
+          "farmasi",
+          "bedah",
+          "gawat-darurat",
+          "radiologi",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+5991562236",
+        "website": "https://rs6.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.757825,
+          -6.158753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ007",
+        "name": "RSU Orthopedi Jakarta 7",
+        "type": "Orthopedi",
+        "beds": 135,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.47, Jakarta",
+        "facilities": [
+          "laboratorium",
+          "poli-kandungan",
+          "gawat-darurat",
+          "farmasi",
+          "ICU"
+        ],
+        "emergency": true,
+        "phone": "+9870666870",
+        "website": "https://rs7.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.717165,
+          -6.212761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ008",
+        "name": "RSU Jiwa Jakarta 8",
+        "type": "Jiwa",
+        "beds": 228,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.177, Jakarta",
+        "facilities": [
+          "farmasi",
+          "laboratorium",
+          "rehabilitasi",
+          "poli-gigi",
+          "hemodialisa",
+          "radiologi",
+          "gawat-darurat"
+        ],
+        "emergency": true,
+        "phone": "+5591735008",
+        "website": "https://rs8.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.909289,
+          -6.201133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ009",
+        "name": "RSIA Jiwa Jakarta 9",
+        "type": "Jiwa",
+        "beds": 382,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.72, Jakarta",
+        "facilities": [
+          "ICU",
+          "poli-umum",
+          "hemodialisa",
+          "poli-anak",
+          "farmasi",
+          "poli-kandungan",
+          "laboratorium",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+6490628745",
+        "website": "https://rs9.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.811467,
+          -6.212814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ010",
+        "name": "RSU Umum Jakarta 10",
+        "type": "Umum",
+        "beds": 305,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.83, Jakarta",
+        "facilities": [
+          "bedah",
+          "farmasi",
+          "PICU",
+          "gawat-darurat",
+          "rehabilitasi"
+        ],
+        "emergency": true,
+        "phone": "+2114739039",
+        "website": "https://rs10.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.893594,
+          -6.234085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ011",
+        "name": "RSIA Orthopedi Jakarta 11",
+        "type": "Orthopedi",
+        "beds": 458,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.199, Jakarta",
+        "facilities": [
+          "gawat-darurat",
+          "PICU",
+          "poli-umum",
+          "poli-kandungan",
+          "hemodialisa",
+          "farmasi",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+8337418382",
+        "website": "https://rs11.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.862324,
+          -6.218949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ012",
+        "name": "RSUD Bedah Jakarta 12",
+        "type": "Bedah",
+        "beds": 84,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.66, Jakarta",
+        "facilities": [
+          "gawat-darurat",
+          "poli-gigi",
+          "PICU",
+          "farmasi",
+          "hemodialisa",
+          "ICU",
+          "poli-anak",
+          "rehabilitasi"
+        ],
+        "emergency": true,
+        "phone": "+4418321669",
+        "website": "https://rs12.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.907422,
+          -6.15383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ013",
+        "name": "RSU Ibu dan Anak Jakarta 13",
+        "type": "Ibu dan Anak",
+        "beds": 152,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.162, Jakarta",
+        "facilities": [
+          "PICU",
+          "ICU",
+          "farmasi",
+          "poli-gigi",
+          "hemodialisa",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+9952044331",
+        "website": "https://rs13.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.877492,
+          -6.179843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ014",
+        "name": "RSIA Anak Jakarta 14",
+        "type": "Anak",
+        "beds": 264,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.49, Jakarta",
+        "facilities": [
+          "gawat-darurat",
+          "poli-gigi",
+          "laboratorium",
+          "farmasi",
+          "poli-umum",
+          "rehabilitasi",
+          "radiologi",
+          "hemodialisa",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+9021942983",
+        "website": "https://rs14.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.889601,
+          -6.238822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ015",
+        "name": "RSU Mata Jakarta 15",
+        "type": "Mata",
+        "beds": 176,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.54, Jakarta",
+        "facilities": [
+          "radiologi",
+          "rehabilitasi",
+          "poli-kandungan",
+          "poli-umum",
+          "farmasi",
+          "laboratorium",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+3473331547",
+        "website": "https://rs15.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.870992,
+          -6.218802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ016",
+        "name": "RSU Mata Jakarta 16",
+        "type": "Mata",
+        "beds": 386,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.162, Jakarta",
+        "facilities": [
+          "poli-umum",
+          "NICU",
+          "hemodialisa",
+          "laboratorium",
+          "ICU",
+          "farmasi",
+          "bedah",
+          "poli-kandungan",
+          "rehabilitasi"
+        ],
+        "emergency": true,
+        "phone": "+6815480136",
+        "website": "https://rs16.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.715078,
+          -6.235817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ017",
+        "name": "RS Mata Jakarta 17",
+        "type": "Mata",
+        "beds": 442,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.185, Jakarta",
+        "facilities": [
+          "poli-umum",
+          "poli-kandungan",
+          "poli-gigi",
+          "ICU",
+          "bedah",
+          "rehabilitasi"
+        ],
+        "emergency": true,
+        "phone": "+8131731832",
+        "website": "https://rs17.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.705511,
+          -6.17624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ018",
+        "name": "RSUD Paru Jakarta 18",
+        "type": "Paru",
+        "beds": 157,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.140, Jakarta",
+        "facilities": [
+          "poli-umum",
+          "laboratorium",
+          "radiologi",
+          "PICU",
+          "NICU",
+          "ICU",
+          "poli-anak",
+          "farmasi",
+          "poli-kandungan"
+        ],
+        "emergency": true,
+        "phone": "+3666704910",
+        "website": "https://rs18.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.828076,
+          -6.208681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ019",
+        "name": "RSAB Umum Jakarta 19",
+        "type": "Umum",
+        "beds": 401,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.165, Jakarta",
+        "facilities": [
+          "laboratorium",
+          "hemodialisa",
+          "poli-kandungan",
+          "gawat-darurat",
+          "radiologi",
+          "PICU",
+          "bedah",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+2430356494",
+        "website": "https://rs19.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.764171,
+          -6.237615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ020",
+        "name": "RS Mata Jakarta 20",
+        "type": "Mata",
+        "beds": 453,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.95, Jakarta",
+        "facilities": [
+          "radiologi",
+          "rehabilitasi",
+          "gawat-darurat",
+          "PICU",
+          "laboratorium",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+4836800223",
+        "website": "https://rs20.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.812468,
+          -6.218807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ021",
+        "name": "RSIA Ibu dan Anak Jakarta 21",
+        "type": "Ibu dan Anak",
+        "beds": 82,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.59, Jakarta",
+        "facilities": [
+          "gawat-darurat",
+          "ICU",
+          "bedah",
+          "poli-umum",
+          "poli-kandungan",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+5377796419",
+        "website": "https://rs21.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.793866,
+          -6.199864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ022",
+        "name": "RSIA Mata Jakarta 22",
+        "type": "Mata",
+        "beds": 443,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.104, Jakarta",
+        "facilities": [
+          "hemodialisa",
+          "gawat-darurat",
+          "rehabilitasi",
+          "laboratorium",
+          "ICU",
+          "poli-kandungan",
+          "NICU",
+          "poli-anak",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+7926647709",
+        "website": "https://rs22.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.712114,
+          -6.201237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ023",
+        "name": "RS Mata Jakarta 23",
+        "type": "Mata",
+        "beds": 488,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.36, Jakarta",
+        "facilities": [
+          "gawat-darurat",
+          "poli-anak",
+          "rehabilitasi",
+          "farmasi",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+1930878200",
+        "website": "https://rs23.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77366,
+          -6.173655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ024",
+        "name": "RSIA Jiwa Jakarta 24",
+        "type": "Jiwa",
+        "beds": 279,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.51, Jakarta",
+        "facilities": [
+          "hemodialisa",
+          "farmasi",
+          "laboratorium",
+          "radiologi",
+          "NICU",
+          "rehabilitasi",
+          "PICU",
+          "poli-anak",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+2347897885",
+        "website": "https://rs24.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.908489,
+          -6.231064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ025",
+        "name": "RS Kanker Jakarta 25",
+        "type": "Kanker",
+        "beds": 252,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.62, Jakarta",
+        "facilities": [
+          "bedah",
+          "poli-anak",
+          "rehabilitasi",
+          "poli-kandungan",
+          "ICU",
+          "laboratorium",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+7994116095",
+        "website": "https://rs25.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.758004,
+          -6.166878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ026",
+        "name": "RSUD Ibu dan Anak Jakarta 26",
+        "type": "Ibu dan Anak",
+        "beds": 62,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.33, Jakarta",
+        "facilities": [
+          "rehabilitasi",
+          "poli-umum",
+          "farmasi",
+          "laboratorium",
+          "hemodialisa",
+          "poli-anak",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+4720119679",
+        "website": "https://rs26.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.892898,
+          -6.240737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ027",
+        "name": "RSIA Anak Jakarta 27",
+        "type": "Anak",
+        "beds": 271,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.142, Jakarta",
+        "facilities": [
+          "laboratorium",
+          "farmasi",
+          "poli-kandungan",
+          "bedah",
+          "NICU",
+          "gawat-darurat",
+          "poli-anak",
+          "poli-umum"
+        ],
+        "emergency": true,
+        "phone": "+5562639755",
+        "website": "https://rs27.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.809828,
+          -6.159935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ028",
+        "name": "RSU Mata Jakarta 28",
+        "type": "Mata",
+        "beds": 291,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.24, Jakarta",
+        "facilities": [
+          "laboratorium",
+          "gawat-darurat",
+          "PICU",
+          "radiologi",
+          "poli-umum",
+          "hemodialisa",
+          "poli-kandungan",
+          "ICU"
+        ],
+        "emergency": true,
+        "phone": "+3454087246",
+        "website": "https://rs28.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71912,
+          -6.198076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ029",
+        "name": "RS Ibu dan Anak Jakarta 29",
+        "type": "Ibu dan Anak",
+        "beds": 304,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.50, Jakarta",
+        "facilities": [
+          "gawat-darurat",
+          "farmasi",
+          "ICU",
+          "PICU",
+          "rehabilitasi",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+2777083430",
+        "website": "https://rs29.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.737465,
+          -6.225524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ030",
+        "name": "RSAB Anak Jakarta 30",
+        "type": "Anak",
+        "beds": 273,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.137, Jakarta",
+        "facilities": [
+          "bedah",
+          "PICU",
+          "poli-kandungan",
+          "gawat-darurat",
+          "poli-umum",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+9666549091",
+        "website": "https://rs30.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.839769,
+          -6.200026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPJ031",
+        "name": "RS Ibu dan Anak Jakarta 31",
+        "type": "Ibu dan Anak",
+        "beds": 451,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.22, Jakarta",
+        "facilities": [
+          "farmasi",
+          "rehabilitasi",
+          "ICU",
+          "gawat-darurat",
+          "poli-gigi",
+          "poli-anak",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+8701044651",
+        "website": "https://rs31.jakarta.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.729293,
+          -6.211988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP032",
+        "name": "RSUD Anak Pontianak 32",
+        "type": "Anak",
+        "beds": 352,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.147, Pontianak",
+        "facilities": [
+          "gawat-darurat",
+          "poli-anak",
+          "poli-kandungan",
+          "poli-umum",
+          "laboratorium",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+8789447847",
+        "website": "https://rs32.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.329703,
+          -0.012786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP033",
+        "name": "RS Sultan Muhammad Mata Pontianak 33",
+        "type": "Mata",
+        "beds": 111,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.143, Pontianak",
+        "facilities": [
+          "poli-anak",
+          "poli-kandungan",
+          "hemodialisa",
+          "bedah",
+          "ICU",
+          "poli-gigi",
+          "farmasi",
+          "rehabilitasi",
+          "laboratorium"
+        ],
+        "emergency": true,
+        "phone": "+4772452010",
+        "website": "https://rs33.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.338483,
+          -0.041744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP034",
+        "name": "RS Sultan Muhammad Jiwa Pontianak 34",
+        "type": "Jiwa",
+        "beds": 387,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.148, Pontianak",
+        "facilities": [
+          "radiologi",
+          "poli-anak",
+          "farmasi",
+          "PICU",
+          "poli-gigi",
+          "rehabilitasi",
+          "gawat-darurat"
+        ],
+        "emergency": true,
+        "phone": "+1056338014",
+        "website": "https://rs34.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.348876,
+          -0.047397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP035",
+        "name": "RS Kanker Pontianak 35",
+        "type": "Kanker",
+        "beds": 228,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.95, Pontianak",
+        "facilities": [
+          "laboratorium",
+          "poli-kandungan",
+          "PICU",
+          "poli-umum",
+          "hemodialisa",
+          "poli-anak",
+          "gawat-darurat",
+          "NICU",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+6011620969",
+        "website": "https://rs35.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.365869,
+          -0.029951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP036",
+        "name": "RS Sultan Muhammad Umum Pontianak 36",
+        "type": "Umum",
+        "beds": 96,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.173, Pontianak",
+        "facilities": [
+          "laboratorium",
+          "hemodialisa",
+          "poli-gigi",
+          "NICU",
+          "rehabilitasi",
+          "poli-kandungan",
+          "radiologi",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+3390168007",
+        "website": "https://rs36.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.339838,
+          -0.042759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP037",
+        "name": "RS Orthopedi Pontianak 37",
+        "type": "Orthopedi",
+        "beds": 255,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.177, Pontianak",
+        "facilities": [
+          "ICU",
+          "PICU",
+          "poli-umum",
+          "rehabilitasi",
+          "poli-gigi",
+          "poli-anak",
+          "bedah",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+1395641661",
+        "website": "https://rs37.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.372102,
+          -0.038951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP038",
+        "name": "RS Ibu dan Anak Pontianak 38",
+        "type": "Ibu dan Anak",
+        "beds": 433,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.105, Pontianak",
+        "facilities": [
+          "poli-kandungan",
+          "poli-anak",
+          "radiologi",
+          "poli-umum",
+          "laboratorium",
+          "bedah",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+6875379738",
+        "website": "https://rs38.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.39271,
+          -0.049683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP039",
+        "name": "RS Umum Pontianak 39",
+        "type": "Umum",
+        "beds": 483,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.126, Pontianak",
+        "facilities": [
+          "poli-anak",
+          "radiologi",
+          "farmasi",
+          "ICU",
+          "poli-gigi",
+          "poli-umum"
+        ],
+        "emergency": true,
+        "phone": "+4104538167",
+        "website": "https://rs39.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.378883,
+          -0.028908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP040",
+        "name": "RSUD Anak Pontianak 40",
+        "type": "Anak",
+        "beds": 482,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.84, Pontianak",
+        "facilities": [
+          "hemodialisa",
+          "bedah",
+          "poli-umum",
+          "gawat-darurat",
+          "laboratorium",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+9679827567",
+        "website": "https://rs40.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.374683,
+          -0.037436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP041",
+        "name": "RSUD Kanker Pontianak 41",
+        "type": "Kanker",
+        "beds": 482,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.12, Pontianak",
+        "facilities": [
+          "poli-gigi",
+          "farmasi",
+          "bedah",
+          "gawat-darurat",
+          "NICU",
+          "rehabilitasi",
+          "radiologi",
+          "poli-umum",
+          "poli-kandungan"
+        ],
+        "emergency": true,
+        "phone": "+462612918",
+        "website": "https://rs41.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.343362,
+          -0.026794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP042",
+        "name": "RS Sultan Muhammad Anak Pontianak 42",
+        "type": "Anak",
+        "beds": 399,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.142, Pontianak",
+        "facilities": [
+          "hemodialisa",
+          "rehabilitasi",
+          "ICU",
+          "radiologi",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+8247715296",
+        "website": "https://rs42.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.359517,
+          -0.015284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP043",
+        "name": "RS Jantung Pontianak 43",
+        "type": "Jantung",
+        "beds": 301,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.120, Pontianak",
+        "facilities": [
+          "laboratorium",
+          "NICU",
+          "poli-anak",
+          "ICU",
+          "rehabilitasi",
+          "poli-gigi",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+5479177822",
+        "website": "https://rs43.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.344254,
+          -0.018259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP044",
+        "name": "RSU Mata Pontianak 44",
+        "type": "Mata",
+        "beds": 215,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.160, Pontianak",
+        "facilities": [
+          "poli-umum",
+          "laboratorium",
+          "poli-kandungan",
+          "ICU",
+          "NICU",
+          "PICU",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+8638356327",
+        "website": "https://rs44.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.352178,
+          -0.028398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP045",
+        "name": "RSUD Ibu dan Anak Pontianak 45",
+        "type": "Ibu dan Anak",
+        "beds": 84,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.139, Pontianak",
+        "facilities": [
+          "laboratorium",
+          "PICU",
+          "poli-umum",
+          "NICU",
+          "hemodialisa",
+          "ICU",
+          "farmasi",
+          "poli-kandungan",
+          "gawat-darurat"
+        ],
+        "emergency": true,
+        "phone": "+6242865346",
+        "website": "https://rs45.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.351446,
+          -0.015398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP046",
+        "name": "RSUD Jiwa Pontianak 46",
+        "type": "Jiwa",
+        "beds": 359,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.80, Pontianak",
+        "facilities": [
+          "laboratorium",
+          "PICU",
+          "rehabilitasi",
+          "ICU",
+          "poli-gigi",
+          "poli-umum",
+          "NICU",
+          "bedah",
+          "gawat-darurat"
+        ],
+        "emergency": true,
+        "phone": "+4312917541",
+        "website": "https://rs46.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.317752,
+          -0.023663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP047",
+        "name": "RSU Kanker Pontianak 47",
+        "type": "Kanker",
+        "beds": 252,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.148, Pontianak",
+        "facilities": [
+          "radiologi",
+          "farmasi",
+          "poli-umum",
+          "poli-anak",
+          "laboratorium",
+          "PICU",
+          "gawat-darurat",
+          "bedah",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+6914978572",
+        "website": "https://rs47.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.31253,
+          -0.033891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP048",
+        "name": "RS Sultan Muhammad Kanker Pontianak 48",
+        "type": "Kanker",
+        "beds": 342,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.87, Pontianak",
+        "facilities": [
+          "PICU",
+          "poli-kandungan",
+          "bedah",
+          "hemodialisa",
+          "poli-anak",
+          "poli-umum",
+          "gawat-darurat",
+          "ICU"
+        ],
+        "emergency": true,
+        "phone": "+8012800640",
+        "website": "https://rs48.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.307003,
+          -0.028364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP049",
+        "name": "RSUD Paru Pontianak 49",
+        "type": "Paru",
+        "beds": 338,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.140, Pontianak",
+        "facilities": [
+          "PICU",
+          "poli-kandungan",
+          "gawat-darurat",
+          "poli-umum",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+971466046",
+        "website": "https://rs49.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.374897,
+          -0.020873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP050",
+        "name": "RSUD Jantung Pontianak 50",
+        "type": "Jantung",
+        "beds": 433,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.125, Pontianak",
+        "facilities": [
+          "bedah",
+          "poli-umum",
+          "radiologi",
+          "poli-gigi",
+          "gawat-darurat"
+        ],
+        "emergency": true,
+        "phone": "+1561068447",
+        "website": "https://rs50.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.374805,
+          -0.025826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP051",
+        "name": "RSUD Jiwa Pontianak 51",
+        "type": "Jiwa",
+        "beds": 430,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.157, Pontianak",
+        "facilities": [
+          "radiologi",
+          "poli-gigi",
+          "ICU",
+          "poli-kandungan",
+          "gawat-darurat",
+          "laboratorium"
+        ],
+        "emergency": true,
+        "phone": "+6959797753",
+        "website": "https://rs51.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.353772,
+          -0.026999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP052",
+        "name": "RS Sultan Muhammad Kanker Pontianak 52",
+        "type": "Kanker",
+        "beds": 268,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.43, Pontianak",
+        "facilities": [
+          "farmasi",
+          "bedah",
+          "poli-umum",
+          "radiologi",
+          "laboratorium",
+          "rehabilitasi",
+          "gawat-darurat",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+7904829917",
+        "website": "https://rs52.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.340548,
+          -0.043215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP053",
+        "name": "RS Umum Pontianak 53",
+        "type": "Umum",
+        "beds": 211,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.151, Pontianak",
+        "facilities": [
+          "farmasi",
+          "bedah",
+          "NICU",
+          "gawat-darurat",
+          "poli-kandungan",
+          "rehabilitasi",
+          "hemodialisa",
+          "PICU",
+          "laboratorium"
+        ],
+        "emergency": true,
+        "phone": "+5638907006",
+        "website": "https://rs53.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.370964,
+          -0.021911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP054",
+        "name": "RS Sultan Muhammad Jantung Pontianak 54",
+        "type": "Jantung",
+        "beds": 285,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.31, Pontianak",
+        "facilities": [
+          "ICU",
+          "rehabilitasi",
+          "poli-umum",
+          "laboratorium",
+          "farmasi",
+          "PICU",
+          "hemodialisa",
+          "bedah",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+3442175657",
+        "website": "https://rs54.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.307504,
+          -0.047523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP055",
+        "name": "RS Bedah Pontianak 55",
+        "type": "Bedah",
+        "beds": 429,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.176, Pontianak",
+        "facilities": [
+          "ICU",
+          "bedah",
+          "poli-kandungan",
+          "rehabilitasi",
+          "PICU",
+          "poli-anak",
+          "NICU",
+          "poli-umum",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+9237307644",
+        "website": "https://rs55.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.385492,
+          -0.034572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP056",
+        "name": "RS Sultan Muhammad Jiwa Pontianak 56",
+        "type": "Jiwa",
+        "beds": 105,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.20, Pontianak",
+        "facilities": [
+          "rehabilitasi",
+          "poli-gigi",
+          "gawat-darurat",
+          "laboratorium",
+          "NICU",
+          "PICU",
+          "poli-anak",
+          "ICU",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+6785014055",
+        "website": "https://rs56.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.332846,
+          -0.033007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP057",
+        "name": "RS Umum Pontianak 57",
+        "type": "Umum",
+        "beds": 457,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.27, Pontianak",
+        "facilities": [
+          "rehabilitasi",
+          "farmasi",
+          "poli-umum",
+          "poli-gigi",
+          "gawat-darurat"
+        ],
+        "emergency": true,
+        "phone": "+1315523658",
+        "website": "https://rs57.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.355068,
+          -0.042917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP058",
+        "name": "RS Anak Pontianak 58",
+        "type": "Anak",
+        "beds": 387,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.61, Pontianak",
+        "facilities": [
+          "ICU",
+          "rehabilitasi",
+          "PICU",
+          "farmasi",
+          "poli-umum",
+          "poli-gigi",
+          "NICU",
+          "gawat-darurat"
+        ],
+        "emergency": true,
+        "phone": "+2639757044",
+        "website": "https://rs58.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.353374,
+          -0.020525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP059",
+        "name": "RSU Orthopedi Pontianak 59",
+        "type": "Orthopedi",
+        "beds": 396,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.138, Pontianak",
+        "facilities": [
+          "laboratorium",
+          "radiologi",
+          "poli-kandungan",
+          "poli-umum",
+          "PICU",
+          "NICU",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+2260327696",
+        "website": "https://rs59.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.316138,
+          -0.027445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP060",
+        "name": "RSUD Anak Pontianak 60",
+        "type": "Anak",
+        "beds": 483,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.36, Pontianak",
+        "facilities": [
+          "laboratorium",
+          "NICU",
+          "radiologi",
+          "poli-gigi",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+7528507081",
+        "website": "https://rs60.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.386832,
+          -0.024095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP061",
+        "name": "RSU Paru Pontianak 61",
+        "type": "Paru",
+        "beds": 311,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.42, Pontianak",
+        "facilities": [
+          "laboratorium",
+          "poli-umum",
+          "rehabilitasi",
+          "PICU",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+9708037184",
+        "website": "https://rs61.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.357182,
+          -0.01959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP062",
+        "name": "RSU Jiwa Pontianak 62",
+        "type": "Jiwa",
+        "beds": 153,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.89, Pontianak",
+        "facilities": [
+          "ICU",
+          "PICU",
+          "laboratorium",
+          "poli-umum",
+          "bedah",
+          "poli-anak",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+4490248915",
+        "website": "https://rs62.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.306749,
+          -0.046428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP063",
+        "name": "RSUD Umum Pontianak 63",
+        "type": "Umum",
+        "beds": 412,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.99, Pontianak",
+        "facilities": [
+          "farmasi",
+          "laboratorium",
+          "NICU",
+          "poli-anak",
+          "rehabilitasi",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+3892024341",
+        "website": "https://rs63.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.304879,
+          -0.038173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP064",
+        "name": "RSUD Umum Pontianak 64",
+        "type": "Umum",
+        "beds": 267,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.0, Pontianak",
+        "facilities": [
+          "hemodialisa",
+          "poli-gigi",
+          "gawat-darurat",
+          "PICU",
+          "radiologi",
+          "poli-umum",
+          "rehabilitasi",
+          "poli-anak",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+7878916404",
+        "website": "https://rs64.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.332673,
+          -0.028977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP065",
+        "name": "RS Sultan Muhammad Anak Pontianak 65",
+        "type": "Anak",
+        "beds": 362,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.142, Pontianak",
+        "facilities": [
+          "bedah",
+          "radiologi",
+          "PICU",
+          "hemodialisa",
+          "poli-anak"
+        ],
+        "emergency": true,
+        "phone": "+8459292794",
+        "website": "https://rs65.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.329614,
+          -0.033476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP066",
+        "name": "RS Sultan Muhammad Jiwa Pontianak 66",
+        "type": "Jiwa",
+        "beds": 203,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.20, Pontianak",
+        "facilities": [
+          "NICU",
+          "farmasi",
+          "poli-gigi",
+          "poli-umum",
+          "poli-anak"
+        ],
+        "emergency": true,
+        "phone": "+4033284423",
+        "website": "https://rs66.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.327993,
+          -0.027191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP067",
+        "name": "RS Sultan Muhammad Jiwa Pontianak 67",
+        "type": "Jiwa",
+        "beds": 194,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.178, Pontianak",
+        "facilities": [
+          "PICU",
+          "gawat-darurat",
+          "poli-anak",
+          "farmasi",
+          "poli-gigi",
+          "NICU",
+          "bedah",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+3190015014",
+        "website": "https://rs67.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.329612,
+          -0.023503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP068",
+        "name": "RSU Anak Pontianak 68",
+        "type": "Anak",
+        "beds": 144,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.87, Pontianak",
+        "facilities": [
+          "farmasi",
+          "radiologi",
+          "bedah",
+          "laboratorium",
+          "rehabilitasi",
+          "poli-umum"
+        ],
+        "emergency": true,
+        "phone": "+3805645944",
+        "website": "https://rs68.pontianak.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.355605,
+          -0.013359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS069",
+        "name": "RSUP Anak Semarang 69",
+        "type": "Anak",
+        "beds": 370,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.194, Semarang",
+        "facilities": [
+          "laboratorium",
+          "poli-gigi",
+          "NICU",
+          "radiologi",
+          "ICU",
+          "PICU",
+          "rehabilitasi",
+          "poli-anak",
+          "gawat-darurat"
+        ],
+        "emergency": true,
+        "phone": "+6598932923",
+        "website": "https://rs69.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.364086,
+          -7.042339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS070",
+        "name": "RSUP Umum Semarang 70",
+        "type": "Umum",
+        "beds": 446,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.61, Semarang",
+        "facilities": [
+          "poli-kandungan",
+          "NICU",
+          "poli-gigi",
+          "rehabilitasi",
+          "poli-anak",
+          "bedah",
+          "radiologi",
+          "ICU"
+        ],
+        "emergency": true,
+        "phone": "+8763452200",
+        "website": "https://rs70.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.357469,
+          -6.974607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS071",
+        "name": "RS Kanker Semarang 71",
+        "type": "Kanker",
+        "beds": 126,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.98, Semarang",
+        "facilities": [
+          "radiologi",
+          "rehabilitasi",
+          "NICU",
+          "laboratorium",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+8273854108",
+        "website": "https://rs71.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.418951,
+          -7.012051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS072",
+        "name": "RSUP Jantung Semarang 72",
+        "type": "Jantung",
+        "beds": 79,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.62, Semarang",
+        "facilities": [
+          "rehabilitasi",
+          "poli-anak",
+          "NICU",
+          "hemodialisa",
+          "laboratorium",
+          "poli-kandungan",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+6402161066",
+        "website": "https://rs72.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.353323,
+          -7.04688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS073",
+        "name": "RS Ibu dan Anak Semarang 73",
+        "type": "Ibu dan Anak",
+        "beds": 111,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.122, Semarang",
+        "facilities": [
+          "rehabilitasi",
+          "poli-anak",
+          "NICU",
+          "farmasi",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+4204938923",
+        "website": "https://rs73.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.461046,
+          -7.00501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS074",
+        "name": "RSU Kanker Semarang 74",
+        "type": "Kanker",
+        "beds": 244,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.161, Semarang",
+        "facilities": [
+          "NICU",
+          "hemodialisa",
+          "poli-umum",
+          "ICU",
+          "poli-gigi",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+1037878561",
+        "website": "https://rs74.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.456528,
+          -6.971633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS075",
+        "name": "RSUP Anak Semarang 75",
+        "type": "Anak",
+        "beds": 387,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.102, Semarang",
+        "facilities": [
+          "gawat-darurat",
+          "rehabilitasi",
+          "poli-umum",
+          "farmasi",
+          "laboratorium",
+          "hemodialisa",
+          "radiologi",
+          "poli-kandungan"
+        ],
+        "emergency": true,
+        "phone": "+2553123441",
+        "website": "https://rs75.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.480954,
+          -6.966894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS076",
+        "name": "RS Paru Semarang 76",
+        "type": "Paru",
+        "beds": 90,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.26, Semarang",
+        "facilities": [
+          "bedah",
+          "hemodialisa",
+          "poli-anak",
+          "PICU",
+          "ICU",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+1837264522",
+        "website": "https://rs76.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.356685,
+          -7.027593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS077",
+        "name": "RSUP Ibu dan Anak Semarang 77",
+        "type": "Ibu dan Anak",
+        "beds": 365,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.92, Semarang",
+        "facilities": [
+          "poli-kandungan",
+          "gawat-darurat",
+          "farmasi",
+          "rehabilitasi",
+          "poli-umum",
+          "laboratorium",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+4563017777",
+        "website": "https://rs77.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.408284,
+          -7.040106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS078",
+        "name": "RSUD Kanker Semarang 78",
+        "type": "Kanker",
+        "beds": 431,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.119, Semarang",
+        "facilities": [
+          "gawat-darurat",
+          "radiologi",
+          "poli-umum",
+          "laboratorium",
+          "ICU",
+          "rehabilitasi",
+          "poli-kandungan",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+5304399907",
+        "website": "https://rs78.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.404905,
+          -6.951981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS079",
+        "name": "RSU Mata Semarang 79",
+        "type": "Mata",
+        "beds": 186,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.35, Semarang",
+        "facilities": [
+          "poli-kandungan",
+          "poli-umum",
+          "bedah",
+          "hemodialisa",
+          "radiologi",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+1431185536",
+        "website": "https://rs79.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39563,
+          -7.046372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS080",
+        "name": "RS Orthopedi Semarang 80",
+        "type": "Orthopedi",
+        "beds": 452,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.173, Semarang",
+        "facilities": [
+          "radiologi",
+          "poli-gigi",
+          "poli-anak",
+          "poli-kandungan",
+          "ICU"
+        ],
+        "emergency": true,
+        "phone": "+5792708338",
+        "website": "https://rs80.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.458807,
+          -7.025246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS081",
+        "name": "RSUP Mata Semarang 81",
+        "type": "Mata",
+        "beds": 192,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.146, Semarang",
+        "facilities": [
+          "hemodialisa",
+          "radiologi",
+          "PICU",
+          "gawat-darurat",
+          "poli-kandungan",
+          "rehabilitasi",
+          "poli-gigi",
+          "farmasi",
+          "laboratorium"
+        ],
+        "emergency": true,
+        "phone": "+3226006188",
+        "website": "https://rs81.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37169,
+          -7.010276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS082",
+        "name": "RSUD Paru Semarang 82",
+        "type": "Paru",
+        "beds": 233,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.179, Semarang",
+        "facilities": [
+          "hemodialisa",
+          "radiologi",
+          "PICU",
+          "gawat-darurat",
+          "poli-kandungan",
+          "rehabilitasi"
+        ],
+        "emergency": true,
+        "phone": "+1549971246",
+        "website": "https://rs82.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38072,
+          -7.003496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS083",
+        "name": "RS Umum Semarang 83",
+        "type": "Umum",
+        "beds": 470,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.75, Semarang",
+        "facilities": [
+          "poli-anak",
+          "ICU",
+          "bedah",
+          "gawat-darurat",
+          "poli-umum",
+          "farmasi",
+          "hemodialisa",
+          "radiologi",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+1272229542",
+        "website": "https://rs83.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.434885,
+          -7.000585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS084",
+        "name": "RS Umum Semarang 84",
+        "type": "Umum",
+        "beds": 119,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.43, Semarang",
+        "facilities": [
+          "NICU",
+          "gawat-darurat",
+          "bedah",
+          "ICU",
+          "radiologi",
+          "poli-umum"
+        ],
+        "emergency": true,
+        "phone": "+2275988171",
+        "website": "https://rs84.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.491552,
+          -7.026627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS085",
+        "name": "RSU Mata Semarang 85",
+        "type": "Mata",
+        "beds": 166,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.29, Semarang",
+        "facilities": [
+          "PICU",
+          "farmasi",
+          "hemodialisa",
+          "poli-gigi",
+          "radiologi",
+          "ICU",
+          "poli-umum"
+        ],
+        "emergency": true,
+        "phone": "+3446523150",
+        "website": "https://rs85.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.462396,
+          -7.014747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS086",
+        "name": "RS Anak Semarang 86",
+        "type": "Anak",
+        "beds": 172,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.93, Semarang",
+        "facilities": [
+          "poli-anak",
+          "NICU",
+          "poli-kandungan",
+          "poli-gigi",
+          "rehabilitasi",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+1817216831",
+        "website": "https://rs86.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.355992,
+          -7.029977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS087",
+        "name": "RS Jantung Semarang 87",
+        "type": "Jantung",
+        "beds": 183,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.197, Semarang",
+        "facilities": [
+          "NICU",
+          "poli-gigi",
+          "rehabilitasi",
+          "poli-anak",
+          "gawat-darurat",
+          "laboratorium"
+        ],
+        "emergency": true,
+        "phone": "+7512605091",
+        "website": "https://rs87.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.406155,
+          -7.035797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS088",
+        "name": "RS Orthopedi Semarang 88",
+        "type": "Orthopedi",
+        "beds": 468,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.38, Semarang",
+        "facilities": [
+          "laboratorium",
+          "radiologi",
+          "PICU",
+          "ICU",
+          "poli-umum",
+          "rehabilitasi",
+          "hemodialisa",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+8332485016",
+        "website": "https://rs88.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.426127,
+          -6.970162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS089",
+        "name": "RSUP Kanker Semarang 89",
+        "type": "Kanker",
+        "beds": 266,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.189, Semarang",
+        "facilities": [
+          "NICU",
+          "poli-gigi",
+          "laboratorium",
+          "radiologi",
+          "poli-umum",
+          "poli-anak",
+          "rehabilitasi",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+8346381392",
+        "website": "https://rs89.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.443621,
+          -7.046069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS090",
+        "name": "RSUD Anak Semarang 90",
+        "type": "Anak",
+        "beds": 153,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.70, Semarang",
+        "facilities": [
+          "poli-anak",
+          "ICU",
+          "NICU",
+          "bedah",
+          "hemodialisa",
+          "PICU",
+          "poli-kandungan",
+          "poli-umum",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+5521443352",
+        "website": "https://rs90.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.427862,
+          -7.03962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS091",
+        "name": "RSUP Kanker Semarang 91",
+        "type": "Kanker",
+        "beds": 498,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.22, Semarang",
+        "facilities": [
+          "hemodialisa",
+          "bedah",
+          "NICU",
+          "gawat-darurat",
+          "poli-kandungan",
+          "laboratorium",
+          "ICU"
+        ],
+        "emergency": true,
+        "phone": "+1716116014",
+        "website": "https://rs91.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.454179,
+          -6.967292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS092",
+        "name": "RSU Kanker Semarang 92",
+        "type": "Kanker",
+        "beds": 313,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.99, Semarang",
+        "facilities": [
+          "hemodialisa",
+          "rehabilitasi",
+          "bedah",
+          "poli-anak",
+          "poli-gigi",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+6013339260",
+        "website": "https://rs92.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.44033,
+          -6.985864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS093",
+        "name": "RSUP Kanker Semarang 93",
+        "type": "Kanker",
+        "beds": 284,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.89, Semarang",
+        "facilities": [
+          "PICU",
+          "rehabilitasi",
+          "bedah",
+          "laboratorium",
+          "poli-anak",
+          "poli-umum",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+732083018",
+        "website": "https://rs93.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.44362,
+          -6.989253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS094",
+        "name": "RS Ibu dan Anak Semarang 94",
+        "type": "Ibu dan Anak",
+        "beds": 437,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.41, Semarang",
+        "facilities": [
+          "NICU",
+          "poli-anak",
+          "farmasi",
+          "rehabilitasi",
+          "radiologi",
+          "bedah",
+          "poli-kandungan"
+        ],
+        "emergency": true,
+        "phone": "+9103052858",
+        "website": "https://rs94.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.395102,
+          -6.987531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS095",
+        "name": "RSUD Jiwa Semarang 95",
+        "type": "Jiwa",
+        "beds": 51,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.31, Semarang",
+        "facilities": [
+          "laboratorium",
+          "gawat-darurat",
+          "poli-umum",
+          "radiologi",
+          "poli-anak",
+          "bedah",
+          "NICU",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+6216774910",
+        "website": "https://rs95.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.365879,
+          -6.979542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS096",
+        "name": "RSU Ibu dan Anak Semarang 96",
+        "type": "Ibu dan Anak",
+        "beds": 342,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.46, Semarang",
+        "facilities": [
+          "poli-anak",
+          "PICU",
+          "NICU",
+          "farmasi",
+          "gawat-darurat",
+          "poli-gigi",
+          "poli-kandungan"
+        ],
+        "emergency": true,
+        "phone": "+1604526479",
+        "website": "https://rs96.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.404898,
+          -6.972226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS097",
+        "name": "RS Umum Semarang 97",
+        "type": "Umum",
+        "beds": 149,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.84, Semarang",
+        "facilities": [
+          "farmasi",
+          "laboratorium",
+          "poli-umum",
+          "poli-kandungan",
+          "poli-anak"
+        ],
+        "emergency": true,
+        "phone": "+7165266130",
+        "website": "https://rs97.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.494102,
+          -7.007092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS098",
+        "name": "RSU Kanker Semarang 98",
+        "type": "Kanker",
+        "beds": 313,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.123, Semarang",
+        "facilities": [
+          "farmasi",
+          "poli-anak",
+          "ICU",
+          "bedah",
+          "hemodialisa",
+          "laboratorium",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+9709845112",
+        "website": "https://rs98.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.427675,
+          -7.009652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS099",
+        "name": "RSU Umum Semarang 99",
+        "type": "Umum",
+        "beds": 257,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.82, Semarang",
+        "facilities": [
+          "poli-gigi",
+          "gawat-darurat",
+          "farmasi",
+          "radiologi",
+          "rehabilitasi",
+          "poli-anak"
+        ],
+        "emergency": true,
+        "phone": "+6360058388",
+        "website": "https://rs99.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.445356,
+          -7.022885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS100",
+        "name": "RSU Orthopedi Semarang 100",
+        "type": "Orthopedi",
+        "beds": 491,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.189, Semarang",
+        "facilities": [
+          "NICU",
+          "radiologi",
+          "farmasi",
+          "gawat-darurat",
+          "laboratorium",
+          "bedah",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+1058034420",
+        "website": "https://rs100.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.371781,
+          -7.043435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS101",
+        "name": "RSUP Mata Semarang 101",
+        "type": "Mata",
+        "beds": 399,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.86, Semarang",
+        "facilities": [
+          "hemodialisa",
+          "NICU",
+          "poli-umum",
+          "laboratorium",
+          "radiologi",
+          "bedah",
+          "poli-kandungan",
+          "poli-gigi",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+4082252725",
+        "website": "https://rs101.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.404294,
+          -7.034246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS102",
+        "name": "RS Bedah Semarang 102",
+        "type": "Bedah",
+        "beds": 112,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.154, Semarang",
+        "facilities": [
+          "hemodialisa",
+          "poli-kandungan",
+          "PICU",
+          "rehabilitasi",
+          "ICU",
+          "NICU",
+          "poli-umum",
+          "farmasi",
+          "laboratorium"
+        ],
+        "emergency": true,
+        "phone": "+4899640958",
+        "website": "https://rs102.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.433273,
+          -7.021299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS103",
+        "name": "RSU Jiwa Semarang 103",
+        "type": "Jiwa",
+        "beds": 150,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.158, Semarang",
+        "facilities": [
+          "poli-umum",
+          "hemodialisa",
+          "radiologi",
+          "PICU",
+          "NICU",
+          "poli-anak"
+        ],
+        "emergency": true,
+        "phone": "+7422831263",
+        "website": "https://rs103.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.441669,
+          -6.998347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS104",
+        "name": "RSU Orthopedi Semarang 104",
+        "type": "Orthopedi",
+        "beds": 273,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.51, Semarang",
+        "facilities": [
+          "farmasi",
+          "poli-umum",
+          "hemodialisa",
+          "gawat-darurat",
+          "radiologi",
+          "rehabilitasi",
+          "ICU",
+          "poli-anak"
+        ],
+        "emergency": true,
+        "phone": "+9055136321",
+        "website": "https://rs104.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.466253,
+          -6.993276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS105",
+        "name": "RSUP Orthopedi Semarang 105",
+        "type": "Orthopedi",
+        "beds": 384,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.127, Semarang",
+        "facilities": [
+          "NICU",
+          "poli-anak",
+          "radiologi",
+          "laboratorium",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+3141825324",
+        "website": "https://rs105.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.378648,
+          -6.981112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS106",
+        "name": "RSU Anak Semarang 106",
+        "type": "Anak",
+        "beds": 378,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.185, Semarang",
+        "facilities": [
+          "poli-gigi",
+          "ICU",
+          "poli-anak",
+          "laboratorium",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+2178318769",
+        "website": "https://rs106.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.485515,
+          -7.015551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS107",
+        "name": "RSU Orthopedi Semarang 107",
+        "type": "Orthopedi",
+        "beds": 324,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.103, Semarang",
+        "facilities": [
+          "ICU",
+          "farmasi",
+          "poli-anak",
+          "radiologi",
+          "rehabilitasi",
+          "NICU",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+194016427",
+        "website": "https://rs107.semarang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.360777,
+          -6.986561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS108",
+        "name": "RSUD Mata Singkawang 108",
+        "type": "Mata",
+        "beds": 417,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.116, Singkawang",
+        "facilities": [
+          "PICU",
+          "NICU",
+          "poli-gigi",
+          "rehabilitasi",
+          "laboratorium",
+          "bedah",
+          "ICU",
+          "farmasi",
+          "poli-umum"
+        ],
+        "emergency": true,
+        "phone": "+9108793870",
+        "website": "https://rs108.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.95723,
+          0.892574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS109",
+        "name": "RSUD Umum Singkawang 109",
+        "type": "Umum",
+        "beds": 308,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.33, Singkawang",
+        "facilities": [
+          "bedah",
+          "ICU",
+          "poli-kandungan",
+          "NICU",
+          "poli-gigi",
+          "rehabilitasi"
+        ],
+        "emergency": true,
+        "phone": "+368328610",
+        "website": "https://rs109.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.950349,
+          0.902885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS110",
+        "name": "RSU Orthopedi Singkawang 110",
+        "type": "Orthopedi",
+        "beds": 196,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.114, Singkawang",
+        "facilities": [
+          "rehabilitasi",
+          "bedah",
+          "poli-anak",
+          "hemodialisa",
+          "laboratorium",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+4202450887",
+        "website": "https://rs110.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.97982,
+          0.91111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS111",
+        "name": "RSU Jantung Singkawang 111",
+        "type": "Jantung",
+        "beds": 356,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.92, Singkawang",
+        "facilities": [
+          "poli-umum",
+          "gawat-darurat",
+          "rehabilitasi",
+          "radiologi",
+          "bedah",
+          "poli-anak",
+          "poli-kandungan",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+3449333591",
+        "website": "https://rs111.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.017636,
+          0.903514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS112",
+        "name": "RSU Jantung Singkawang 112",
+        "type": "Jantung",
+        "beds": 249,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.195, Singkawang",
+        "facilities": [
+          "radiologi",
+          "rehabilitasi",
+          "gawat-darurat",
+          "PICU",
+          "poli-kandungan",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+2712447849",
+        "website": "https://rs112.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.010521,
+          0.893429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS113",
+        "name": "RSUD Ibu dan Anak Singkawang 113",
+        "type": "Ibu dan Anak",
+        "beds": 163,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.35, Singkawang",
+        "facilities": [
+          "poli-gigi",
+          "NICU",
+          "gawat-darurat",
+          "PICU",
+          "poli-umum",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+7705940751",
+        "website": "https://rs113.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.965043,
+          0.908956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS114",
+        "name": "RS Anak Singkawang 114",
+        "type": "Anak",
+        "beds": 241,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.67, Singkawang",
+        "facilities": [
+          "rehabilitasi",
+          "farmasi",
+          "radiologi",
+          "NICU",
+          "poli-kandungan",
+          "bedah",
+          "ICU",
+          "gawat-darurat",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+2010884065",
+        "website": "https://rs114.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.982418,
+          0.909824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS115",
+        "name": "RSUD Paru Singkawang 115",
+        "type": "Paru",
+        "beds": 231,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.143, Singkawang",
+        "facilities": [
+          "ICU",
+          "poli-kandungan",
+          "hemodialisa",
+          "rehabilitasi",
+          "NICU",
+          "PICU",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+8714069",
+        "website": "https://rs115.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.971794,
+          0.918718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS116",
+        "name": "RSUD Mata Singkawang 116",
+        "type": "Mata",
+        "beds": 338,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.156, Singkawang",
+        "facilities": [
+          "poli-gigi",
+          "laboratorium",
+          "hemodialisa",
+          "poli-anak",
+          "NICU",
+          "poli-kandungan",
+          "bedah",
+          "gawat-darurat"
+        ],
+        "emergency": true,
+        "phone": "+7217608421",
+        "website": "https://rs116.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.971341,
+          0.903956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS117",
+        "name": "RS Kanker Singkawang 117",
+        "type": "Kanker",
+        "beds": 279,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.129, Singkawang",
+        "facilities": [
+          "farmasi",
+          "poli-anak",
+          "laboratorium",
+          "NICU",
+          "poli-gigi",
+          "PICU",
+          "radiologi",
+          "gawat-darurat"
+        ],
+        "emergency": true,
+        "phone": "+7926831163",
+        "website": "https://rs117.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.967129,
+          0.898718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS118",
+        "name": "RSUD Mata Singkawang 118",
+        "type": "Mata",
+        "beds": 139,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.109, Singkawang",
+        "facilities": [
+          "farmasi",
+          "ICU",
+          "hemodialisa",
+          "radiologi",
+          "poli-anak"
+        ],
+        "emergency": true,
+        "phone": "+3353343497",
+        "website": "https://rs118.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.986448,
+          0.916354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS119",
+        "name": "RS Ibu dan Anak Singkawang 119",
+        "type": "Ibu dan Anak",
+        "beds": 269,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.78, Singkawang",
+        "facilities": [
+          "farmasi",
+          "radiologi",
+          "ICU",
+          "bedah",
+          "rehabilitasi"
+        ],
+        "emergency": true,
+        "phone": "+2400653474",
+        "website": "https://rs119.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.968799,
+          0.892563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS120",
+        "name": "RSUD Jiwa Singkawang 120",
+        "type": "Jiwa",
+        "beds": 136,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.44, Singkawang",
+        "facilities": [
+          "farmasi",
+          "rehabilitasi",
+          "poli-gigi",
+          "laboratorium",
+          "poli-umum",
+          "poli-anak",
+          "gawat-darurat"
+        ],
+        "emergency": true,
+        "phone": "+2611398414",
+        "website": "https://rs120.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.952254,
+          0.917312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS121",
+        "name": "RSUD Bedah Singkawang 121",
+        "type": "Bedah",
+        "beds": 84,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.112, Singkawang",
+        "facilities": [
+          "radiologi",
+          "poli-kandungan",
+          "gawat-darurat",
+          "ICU",
+          "poli-gigi",
+          "poli-anak",
+          "bedah",
+          "hemodialisa",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+5020869070",
+        "website": "https://rs121.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.962117,
+          0.901922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS122",
+        "name": "RSUD Anak Singkawang 122",
+        "type": "Anak",
+        "beds": 168,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.90, Singkawang",
+        "facilities": [
+          "poli-kandungan",
+          "radiologi",
+          "poli-anak",
+          "rehabilitasi",
+          "poli-umum",
+          "poli-gigi",
+          "ICU"
+        ],
+        "emergency": true,
+        "phone": "+3109584559",
+        "website": "https://rs122.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.002673,
+          0.916519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS123",
+        "name": "RS Jantung Singkawang 123",
+        "type": "Jantung",
+        "beds": 67,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.93, Singkawang",
+        "facilities": [
+          "rehabilitasi",
+          "farmasi",
+          "poli-anak",
+          "laboratorium",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+5501186415",
+        "website": "https://rs123.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.000772,
+          0.896967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS124",
+        "name": "RSU Umum Singkawang 124",
+        "type": "Umum",
+        "beds": 151,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.111, Singkawang",
+        "facilities": [
+          "rehabilitasi",
+          "poli-kandungan",
+          "farmasi",
+          "hemodialisa",
+          "laboratorium",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+6926531629",
+        "website": "https://rs124.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.002278,
+          0.898512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS125",
+        "name": "RSUD Kanker Singkawang 125",
+        "type": "Kanker",
+        "beds": 237,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.195, Singkawang",
+        "facilities": [
+          "laboratorium",
+          "farmasi",
+          "PICU",
+          "hemodialisa",
+          "ICU",
+          "poli-anak"
+        ],
+        "emergency": true,
+        "phone": "+4797165469",
+        "website": "https://rs125.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.007936,
+          0.904004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS126",
+        "name": "RSU Bedah Singkawang 126",
+        "type": "Bedah",
+        "beds": 67,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.79, Singkawang",
+        "facilities": [
+          "poli-anak",
+          "PICU",
+          "poli-gigi",
+          "poli-umum",
+          "hemodialisa",
+          "poli-kandungan",
+          "ICU",
+          "rehabilitasi"
+        ],
+        "emergency": true,
+        "phone": "+6973146712",
+        "website": "https://rs126.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.996801,
+          0.907464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS127",
+        "name": "RSUD Ibu dan Anak Singkawang 127",
+        "type": "Ibu dan Anak",
+        "beds": 347,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.95, Singkawang",
+        "facilities": [
+          "rehabilitasi",
+          "laboratorium",
+          "gawat-darurat",
+          "poli-anak",
+          "bedah",
+          "PICU",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+4084455933",
+        "website": "https://rs127.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.002453,
+          0.895101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS128",
+        "name": "RSU Kanker Singkawang 128",
+        "type": "Kanker",
+        "beds": 89,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.55, Singkawang",
+        "facilities": [
+          "rehabilitasi",
+          "radiologi",
+          "poli-umum",
+          "poli-gigi",
+          "laboratorium",
+          "gawat-darurat",
+          "poli-anak"
+        ],
+        "emergency": true,
+        "phone": "+2152554673",
+        "website": "https://rs128.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.997707,
+          0.893709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS129",
+        "name": "RSUD Kanker Singkawang 129",
+        "type": "Kanker",
+        "beds": 103,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.196, Singkawang",
+        "facilities": [
+          "laboratorium",
+          "rehabilitasi",
+          "PICU",
+          "poli-kandungan",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+5308884143",
+        "website": "https://rs129.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.965414,
+          0.905449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS130",
+        "name": "RSU Orthopedi Singkawang 130",
+        "type": "Orthopedi",
+        "beds": 468,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.103, Singkawang",
+        "facilities": [
+          "PICU",
+          "bedah",
+          "poli-kandungan",
+          "rehabilitasi",
+          "gawat-darurat",
+          "ICU",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+675605605",
+        "website": "https://rs130.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.955916,
+          0.891741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS131",
+        "name": "RSUD Jiwa Singkawang 131",
+        "type": "Jiwa",
+        "beds": 312,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.128, Singkawang",
+        "facilities": [
+          "NICU",
+          "ICU",
+          "poli-gigi",
+          "radiologi",
+          "rehabilitasi"
+        ],
+        "emergency": true,
+        "phone": "+805112208",
+        "website": "https://rs131.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.955463,
+          0.904879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS132",
+        "name": "RSU Jiwa Singkawang 132",
+        "type": "Jiwa",
+        "beds": 133,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.108, Singkawang",
+        "facilities": [
+          "poli-umum",
+          "poli-gigi",
+          "poli-anak",
+          "bedah",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+7632388726",
+        "website": "https://rs132.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.001649,
+          0.907922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS133",
+        "name": "RS Mata Singkawang 133",
+        "type": "Mata",
+        "beds": 98,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.133, Singkawang",
+        "facilities": [
+          "laboratorium",
+          "poli-anak",
+          "poli-gigi",
+          "poli-kandungan",
+          "gawat-darurat"
+        ],
+        "emergency": true,
+        "phone": "+9715974155",
+        "website": "https://rs133.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.953635,
+          0.908801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS134",
+        "name": "RS Umum Singkawang 134",
+        "type": "Umum",
+        "beds": 122,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.100, Singkawang",
+        "facilities": [
+          "laboratorium",
+          "poli-anak",
+          "bedah",
+          "poli-gigi",
+          "radiologi",
+          "poli-kandungan"
+        ],
+        "emergency": true,
+        "phone": "+6017541849",
+        "website": "https://rs134.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.995816,
+          0.900834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS135",
+        "name": "RSUD Kanker Singkawang 135",
+        "type": "Kanker",
+        "beds": 93,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.19, Singkawang",
+        "facilities": [
+          "poli-gigi",
+          "poli-umum",
+          "NICU",
+          "bedah",
+          "rehabilitasi",
+          "gawat-darurat",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+9217693039",
+        "website": "https://rs135.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.960297,
+          0.911978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS136",
+        "name": "RSUD Anak Singkawang 136",
+        "type": "Anak",
+        "beds": 300,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.60, Singkawang",
+        "facilities": [
+          "laboratorium",
+          "gawat-darurat",
+          "poli-umum",
+          "ICU",
+          "rehabilitasi",
+          "poli-gigi",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+2590640229",
+        "website": "https://rs136.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.958796,
+          0.905631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS137",
+        "name": "RS Kanker Singkawang 137",
+        "type": "Kanker",
+        "beds": 412,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.196, Singkawang",
+        "facilities": [
+          "ICU",
+          "laboratorium",
+          "hemodialisa",
+          "rehabilitasi",
+          "gawat-darurat",
+          "radiologi",
+          "poli-anak"
+        ],
+        "emergency": true,
+        "phone": "+3859788625",
+        "website": "https://rs137.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.01699,
+          0.894868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS138",
+        "name": "RS Orthopedi Singkawang 138",
+        "type": "Orthopedi",
+        "beds": 273,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.198, Singkawang",
+        "facilities": [
+          "poli-anak",
+          "ICU",
+          "PICU",
+          "gawat-darurat",
+          "laboratorium"
+        ],
+        "emergency": true,
+        "phone": "+6659385466",
+        "website": "https://rs138.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.994701,
+          0.908325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS139",
+        "name": "RSUD Jantung Singkawang 139",
+        "type": "Jantung",
+        "beds": 84,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.191, Singkawang",
+        "facilities": [
+          "poli-kandungan",
+          "rehabilitasi",
+          "NICU",
+          "radiologi",
+          "PICU",
+          "poli-gigi",
+          "ICU",
+          "farmasi",
+          "laboratorium"
+        ],
+        "emergency": true,
+        "phone": "+8332550756",
+        "website": "https://rs139.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.952689,
+          0.901601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS140",
+        "name": "RSU Anak Singkawang 140",
+        "type": "Anak",
+        "beds": 50,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.171, Singkawang",
+        "facilities": [
+          "radiologi",
+          "poli-kandungan",
+          "laboratorium",
+          "bedah",
+          "gawat-darurat",
+          "poli-anak",
+          "hemodialisa",
+          "NICU",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+1675927542",
+        "website": "https://rs140.singkawang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.965781,
+          0.897349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS141",
+        "name": "RSUD Ibu dan Anak Sintang 141",
+        "type": "Ibu dan Anak",
+        "beds": 475,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.73, Sintang",
+        "facilities": [
+          "ICU",
+          "NICU",
+          "poli-umum",
+          "gawat-darurat",
+          "poli-kandungan",
+          "radiologi",
+          "bedah",
+          "poli-anak"
+        ],
+        "emergency": true,
+        "phone": "+3053555017",
+        "website": "https://rs141.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.508347,
+          0.082823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS142",
+        "name": "RSU Jiwa Sintang 142",
+        "type": "Jiwa",
+        "beds": 240,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.160, Sintang",
+        "facilities": [
+          "gawat-darurat",
+          "poli-kandungan",
+          "laboratorium",
+          "rehabilitasi",
+          "ICU",
+          "NICU",
+          "poli-gigi",
+          "bedah",
+          "poli-anak"
+        ],
+        "emergency": true,
+        "phone": "+5650989556",
+        "website": "https://rs142.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.53809,
+          0.095105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS143",
+        "name": "RSU Anak Sintang 143",
+        "type": "Anak",
+        "beds": 173,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.191, Sintang",
+        "facilities": [
+          "poli-gigi",
+          "hemodialisa",
+          "rehabilitasi",
+          "bedah",
+          "laboratorium",
+          "NICU",
+          "gawat-darurat",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+9087580813",
+        "website": "https://rs143.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.521287,
+          0.083648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS144",
+        "name": "RSUD Orthopedi Sintang 144",
+        "type": "Orthopedi",
+        "beds": 458,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.41, Sintang",
+        "facilities": [
+          "PICU",
+          "farmasi",
+          "poli-gigi",
+          "NICU",
+          "radiologi",
+          "poli-anak"
+        ],
+        "emergency": true,
+        "phone": "+5216378143",
+        "website": "https://rs144.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.533226,
+          0.066328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS145",
+        "name": "RSU Anak Sintang 145",
+        "type": "Anak",
+        "beds": 158,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.125, Sintang",
+        "facilities": [
+          "poli-umum",
+          "PICU",
+          "farmasi",
+          "poli-anak",
+          "hemodialisa",
+          "NICU",
+          "gawat-darurat",
+          "ICU",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+1743405926",
+        "website": "https://rs145.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.468462,
+          0.052737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS146",
+        "name": "RSUD Kanker Sintang 146",
+        "type": "Kanker",
+        "beds": 185,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.150, Sintang",
+        "facilities": [
+          "radiologi",
+          "poli-anak",
+          "hemodialisa",
+          "farmasi",
+          "gawat-darurat",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+2889004731",
+        "website": "https://rs146.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.483391,
+          0.093802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS147",
+        "name": "RS Mata Sintang 147",
+        "type": "Mata",
+        "beds": 415,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.83, Sintang",
+        "facilities": [
+          "NICU",
+          "ICU",
+          "poli-kandungan",
+          "PICU",
+          "laboratorium",
+          "poli-gigi",
+          "gawat-darurat",
+          "farmasi",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+4045779256",
+        "website": "https://rs147.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.481137,
+          0.072854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS148",
+        "name": "RSU Jantung Sintang 148",
+        "type": "Jantung",
+        "beds": 391,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.182, Sintang",
+        "facilities": [
+          "poli-kandungan",
+          "bedah",
+          "radiologi",
+          "poli-gigi",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+39179648",
+        "website": "https://rs148.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.539046,
+          0.075783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS149",
+        "name": "RSU Jantung Sintang 149",
+        "type": "Jantung",
+        "beds": 190,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.21, Sintang",
+        "facilities": [
+          "ICU",
+          "hemodialisa",
+          "farmasi",
+          "poli-umum",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+1911555150",
+        "website": "https://rs149.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.485418,
+          0.077165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS150",
+        "name": "RSUD Umum Sintang 150",
+        "type": "Umum",
+        "beds": 493,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.133, Sintang",
+        "facilities": [
+          "hemodialisa",
+          "poli-anak",
+          "gawat-darurat",
+          "farmasi",
+          "ICU",
+          "PICU",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+334282653",
+        "website": "https://rs150.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.459628,
+          0.073507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS151",
+        "name": "RS Mata Sintang 151",
+        "type": "Mata",
+        "beds": 63,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.118, Sintang",
+        "facilities": [
+          "farmasi",
+          "gawat-darurat",
+          "poli-anak",
+          "rehabilitasi",
+          "ICU",
+          "NICU",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+1097260086",
+        "website": "https://rs151.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.506309,
+          0.071139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS152",
+        "name": "RS Mata Sintang 152",
+        "type": "Mata",
+        "beds": 379,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.35, Sintang",
+        "facilities": [
+          "poli-gigi",
+          "rehabilitasi",
+          "poli-umum",
+          "gawat-darurat",
+          "farmasi",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+1487027991",
+        "website": "https://rs152.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.504401,
+          0.07871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS153",
+        "name": "RSU Ibu dan Anak Sintang 153",
+        "type": "Ibu dan Anak",
+        "beds": 90,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.44, Sintang",
+        "facilities": [
+          "PICU",
+          "poli-anak",
+          "NICU",
+          "rehabilitasi",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+2452407229",
+        "website": "https://rs153.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.477667,
+          0.076958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS154",
+        "name": "RS Bedah Sintang 154",
+        "type": "Bedah",
+        "beds": 484,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.139, Sintang",
+        "facilities": [
+          "PICU",
+          "poli-anak",
+          "farmasi",
+          "poli-gigi",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+5794724700",
+        "website": "https://rs154.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.494717,
+          0.087687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS155",
+        "name": "RS Bedah Sintang 155",
+        "type": "Bedah",
+        "beds": 292,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.91, Sintang",
+        "facilities": [
+          "poli-kandungan",
+          "NICU",
+          "PICU",
+          "poli-umum",
+          "rehabilitasi",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+6936073418",
+        "website": "https://rs155.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.544754,
+          0.057343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS156",
+        "name": "RS Jantung Sintang 156",
+        "type": "Jantung",
+        "beds": 195,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.56, Sintang",
+        "facilities": [
+          "laboratorium",
+          "NICU",
+          "bedah",
+          "radiologi",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+6964742304",
+        "website": "https://rs156.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.507244,
+          0.071225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS157",
+        "name": "RS Jantung Sintang 157",
+        "type": "Jantung",
+        "beds": 179,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.109, Sintang",
+        "facilities": [
+          "rehabilitasi",
+          "poli-umum",
+          "PICU",
+          "ICU",
+          "gawat-darurat",
+          "poli-anak"
+        ],
+        "emergency": true,
+        "phone": "+2969960259",
+        "website": "https://rs157.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.495186,
+          0.056802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS158",
+        "name": "RSU Bedah Sintang 158",
+        "type": "Bedah",
+        "beds": 226,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.198, Sintang",
+        "facilities": [
+          "laboratorium",
+          "poli-anak",
+          "hemodialisa",
+          "PICU",
+          "poli-umum",
+          "gawat-darurat",
+          "radiologi",
+          "poli-kandungan",
+          "rehabilitasi"
+        ],
+        "emergency": true,
+        "phone": "+6400299801",
+        "website": "https://rs158.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.47704,
+          0.089101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS159",
+        "name": "RS Mata Sintang 159",
+        "type": "Mata",
+        "beds": 144,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.12, Sintang",
+        "facilities": [
+          "farmasi",
+          "radiologi",
+          "NICU",
+          "gawat-darurat",
+          "bedah",
+          "poli-umum",
+          "ICU",
+          "poli-kandungan",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+1741244766",
+        "website": "https://rs159.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.527715,
+          0.08165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS160",
+        "name": "RSU Kanker Sintang 160",
+        "type": "Kanker",
+        "beds": 252,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.187, Sintang",
+        "facilities": [
+          "farmasi",
+          "poli-kandungan",
+          "poli-anak",
+          "PICU",
+          "poli-umum"
+        ],
+        "emergency": true,
+        "phone": "+6987922071",
+        "website": "https://rs160.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.461407,
+          0.074677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS161",
+        "name": "RS Paru Sintang 161",
+        "type": "Paru",
+        "beds": 82,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.4, Sintang",
+        "facilities": [
+          "hemodialisa",
+          "NICU",
+          "poli-kandungan",
+          "ICU",
+          "poli-gigi",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+9558892263",
+        "website": "https://rs161.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.537201,
+          0.095015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS162",
+        "name": "RS Umum Sintang 162",
+        "type": "Umum",
+        "beds": 290,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.56, Sintang",
+        "facilities": [
+          "poli-kandungan",
+          "NICU",
+          "ICU",
+          "laboratorium",
+          "hemodialisa",
+          "poli-umum",
+          "PICU",
+          "rehabilitasi",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+5434233493",
+        "website": "https://rs162.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.5198,
+          0.059433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS163",
+        "name": "RS Anak Sintang 163",
+        "type": "Anak",
+        "beds": 392,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.196, Sintang",
+        "facilities": [
+          "NICU",
+          "bedah",
+          "ICU",
+          "hemodialisa",
+          "poli-gigi",
+          "PICU",
+          "gawat-darurat",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+677489889",
+        "website": "https://rs163.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.542449,
+          0.065417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS164",
+        "name": "RS Kanker Sintang 164",
+        "type": "Kanker",
+        "beds": 407,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.127, Sintang",
+        "facilities": [
+          "poli-umum",
+          "ICU",
+          "radiologi",
+          "PICU",
+          "laboratorium",
+          "poli-anak",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+6574896348",
+        "website": "https://rs164.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.489409,
+          0.094159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS165",
+        "name": "RSU Jiwa Sintang 165",
+        "type": "Jiwa",
+        "beds": 189,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.85, Sintang",
+        "facilities": [
+          "gawat-darurat",
+          "hemodialisa",
+          "poli-anak",
+          "poli-umum",
+          "poli-kandungan",
+          "PICU",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+9511820961",
+        "website": "https://rs165.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.512514,
+          0.092242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS166",
+        "name": "RSUD Paru Sintang 166",
+        "type": "Paru",
+        "beds": 120,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.11, Sintang",
+        "facilities": [
+          "PICU",
+          "poli-anak",
+          "farmasi",
+          "rehabilitasi",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+2895511637",
+        "website": "https://rs166.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.532704,
+          0.079227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS167",
+        "name": "RSU Jantung Sintang 167",
+        "type": "Jantung",
+        "beds": 301,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.199, Sintang",
+        "facilities": [
+          "poli-umum",
+          "farmasi",
+          "rehabilitasi",
+          "gawat-darurat",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+3529596605",
+        "website": "https://rs167.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.506101,
+          0.099294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS168",
+        "name": "RSU Umum Sintang 168",
+        "type": "Umum",
+        "beds": 354,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.3, Sintang",
+        "facilities": [
+          "gawat-darurat",
+          "poli-kandungan",
+          "ICU",
+          "rehabilitasi",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+8944500213",
+        "website": "https://rs168.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.542867,
+          0.085637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS169",
+        "name": "RS Mata Sintang 169",
+        "type": "Mata",
+        "beds": 269,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.10, Sintang",
+        "facilities": [
+          "rehabilitasi",
+          "ICU",
+          "hemodialisa",
+          "PICU",
+          "poli-anak",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+6455900649",
+        "website": "https://rs169.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.519265,
+          0.071301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS170",
+        "name": "RS Ibu dan Anak Sintang 170",
+        "type": "Ibu dan Anak",
+        "beds": 63,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.63, Sintang",
+        "facilities": [
+          "poli-anak",
+          "ICU",
+          "gawat-darurat",
+          "bedah",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+7959781495",
+        "website": "https://rs170.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.454835,
+          0.053071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS171",
+        "name": "RS Bedah Sintang 171",
+        "type": "Bedah",
+        "beds": 166,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.94, Sintang",
+        "facilities": [
+          "poli-gigi",
+          "gawat-darurat",
+          "poli-anak",
+          "NICU",
+          "farmasi",
+          "radiologi",
+          "poli-kandungan",
+          "bedah",
+          "laboratorium"
+        ],
+        "emergency": true,
+        "phone": "+9551818060",
+        "website": "https://rs171.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.475256,
+          0.060225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS172",
+        "name": "RSUD Umum Sintang 172",
+        "type": "Umum",
+        "beds": 342,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.24, Sintang",
+        "facilities": [
+          "poli-kandungan",
+          "poli-gigi",
+          "gawat-darurat",
+          "poli-anak",
+          "PICU",
+          "laboratorium",
+          "ICU",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+6355906370",
+        "website": "https://rs172.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.52383,
+          0.055368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPS173",
+        "name": "RS Ibu dan Anak Sintang 173",
+        "type": "Ibu dan Anak",
+        "beds": 451,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.140, Sintang",
+        "facilities": [
+          "poli-kandungan",
+          "hemodialisa",
+          "NICU",
+          "poli-gigi",
+          "laboratorium",
+          "rehabilitasi"
+        ],
+        "emergency": true,
+        "phone": "+5608803715",
+        "website": "https://rs173.sintang.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.528548,
+          0.054961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP174",
+        "name": "RSU Umum Palangkaraya 174",
+        "type": "Umum",
+        "beds": 252,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.133, Palangkaraya",
+        "facilities": [
+          "poli-kandungan",
+          "rehabilitasi",
+          "ICU",
+          "gawat-darurat",
+          "PICU",
+          "radiologi",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+968607741",
+        "website": "https://rs174.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.944246,
+          -2.248662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP175",
+        "name": "RS Orthopedi Palangkaraya 175",
+        "type": "Orthopedi",
+        "beds": 390,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.75, Palangkaraya",
+        "facilities": [
+          "PICU",
+          "bedah",
+          "poli-anak",
+          "farmasi",
+          "laboratorium"
+        ],
+        "emergency": true,
+        "phone": "+1695603712",
+        "website": "https://rs175.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.97563,
+          -2.208559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP176",
+        "name": "RS Paru Palangkaraya 176",
+        "type": "Paru",
+        "beds": 496,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.48, Palangkaraya",
+        "facilities": [
+          "hemodialisa",
+          "PICU",
+          "radiologi",
+          "bedah",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+65993405",
+        "website": "https://rs176.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.942864,
+          -2.22696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP177",
+        "name": "RSUD Jantung Palangkaraya 177",
+        "type": "Jantung",
+        "beds": 305,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.32, Palangkaraya",
+        "facilities": [
+          "PICU",
+          "poli-umum",
+          "farmasi",
+          "poli-gigi",
+          "NICU",
+          "laboratorium",
+          "ICU",
+          "gawat-darurat"
+        ],
+        "emergency": true,
+        "phone": "+4545809607",
+        "website": "https://rs177.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.959492,
+          -2.2023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP178",
+        "name": "RS Bedah Palangkaraya 178",
+        "type": "Bedah",
+        "beds": 232,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.187, Palangkaraya",
+        "facilities": [
+          "radiologi",
+          "NICU",
+          "poli-gigi",
+          "farmasi",
+          "poli-kandungan",
+          "hemodialisa",
+          "poli-umum",
+          "PICU",
+          "rehabilitasi"
+        ],
+        "emergency": true,
+        "phone": "+6934525567",
+        "website": "https://rs178.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.953336,
+          -2.203721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP179",
+        "name": "RSUD Paru Palangkaraya 179",
+        "type": "Paru",
+        "beds": 184,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.189, Palangkaraya",
+        "facilities": [
+          "poli-anak",
+          "gawat-darurat",
+          "farmasi",
+          "poli-umum",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+1192797690",
+        "website": "https://rs179.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.944457,
+          -2.235264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP180",
+        "name": "RSUD Ibu dan Anak Palangkaraya 180",
+        "type": "Ibu dan Anak",
+        "beds": 281,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.198, Palangkaraya",
+        "facilities": [
+          "poli-anak",
+          "radiologi",
+          "hemodialisa",
+          "laboratorium",
+          "gawat-darurat",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+8400913277",
+        "website": "https://rs180.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.931077,
+          -2.203324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP181",
+        "name": "RSU Jantung Palangkaraya 181",
+        "type": "Jantung",
+        "beds": 467,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.195, Palangkaraya",
+        "facilities": [
+          "poli-anak",
+          "radiologi",
+          "poli-kandungan",
+          "farmasi",
+          "ICU",
+          "NICU",
+          "rehabilitasi",
+          "bedah",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+7737621442",
+        "website": "https://rs181.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.914542,
+          -2.214675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP182",
+        "name": "RS Mata Palangkaraya 182",
+        "type": "Mata",
+        "beds": 91,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.59, Palangkaraya",
+        "facilities": [
+          "laboratorium",
+          "poli-kandungan",
+          "gawat-darurat",
+          "poli-umum",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+4821683806",
+        "website": "https://rs182.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.917533,
+          -2.208725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP183",
+        "name": "RS Mata Palangkaraya 183",
+        "type": "Mata",
+        "beds": 119,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.85, Palangkaraya",
+        "facilities": [
+          "ICU",
+          "gawat-darurat",
+          "rehabilitasi",
+          "poli-kandungan",
+          "radiologi",
+          "farmasi",
+          "hemodialisa"
+        ],
+        "emergency": true,
+        "phone": "+8196450511",
+        "website": "https://rs183.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.951277,
+          -2.249497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP184",
+        "name": "RSUD Kanker Palangkaraya 184",
+        "type": "Kanker",
+        "beds": 330,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.31, Palangkaraya",
+        "facilities": [
+          "ICU",
+          "poli-kandungan",
+          "laboratorium",
+          "hemodialisa",
+          "poli-umum",
+          "poli-gigi",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+9197555975",
+        "website": "https://rs184.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.905722,
+          -2.207825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP185",
+        "name": "RSU Jiwa Palangkaraya 185",
+        "type": "Jiwa",
+        "beds": 324,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.101, Palangkaraya",
+        "facilities": [
+          "ICU",
+          "NICU",
+          "PICU",
+          "hemodialisa",
+          "radiologi",
+          "laboratorium"
+        ],
+        "emergency": true,
+        "phone": "+1783620244",
+        "website": "https://rs185.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.928425,
+          -2.2173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP186",
+        "name": "RSU Ibu dan Anak Palangkaraya 186",
+        "type": "Ibu dan Anak",
+        "beds": 244,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.15, Palangkaraya",
+        "facilities": [
+          "poli-kandungan",
+          "radiologi",
+          "bedah",
+          "poli-umum",
+          "laboratorium",
+          "farmasi",
+          "ICU",
+          "gawat-darurat"
+        ],
+        "emergency": true,
+        "phone": "+4271168676",
+        "website": "https://rs186.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.984122,
+          -2.219959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP187",
+        "name": "RSUD Umum Palangkaraya 187",
+        "type": "Umum",
+        "beds": 128,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.186, Palangkaraya",
+        "facilities": [
+          "ICU",
+          "laboratorium",
+          "poli-gigi",
+          "gawat-darurat",
+          "farmasi",
+          "hemodialisa",
+          "poli-umum",
+          "poli-anak",
+          "bedah"
+        ],
+        "emergency": true,
+        "phone": "+1059575679",
+        "website": "https://rs187.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.929506,
+          -2.211403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP188",
+        "name": "RS Orthopedi Palangkaraya 188",
+        "type": "Orthopedi",
+        "beds": 83,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.55, Palangkaraya",
+        "facilities": [
+          "ICU",
+          "poli-umum",
+          "poli-kandungan",
+          "PICU",
+          "radiologi",
+          "rehabilitasi",
+          "gawat-darurat",
+          "hemodialisa",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+2614164755",
+        "website": "https://rs188.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.900768,
+          -2.22972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP189",
+        "name": "RSU Paru Palangkaraya 189",
+        "type": "Paru",
+        "beds": 309,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.10, Palangkaraya",
+        "facilities": [
+          "ICU",
+          "PICU",
+          "bedah",
+          "farmasi",
+          "poli-umum",
+          "laboratorium",
+          "rehabilitasi",
+          "poli-anak",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+3919991882",
+        "website": "https://rs189.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.925853,
+          -2.218513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP190",
+        "name": "RSUD Orthopedi Palangkaraya 190",
+        "type": "Orthopedi",
+        "beds": 400,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.133, Palangkaraya",
+        "facilities": [
+          "ICU",
+          "rehabilitasi",
+          "hemodialisa",
+          "poli-gigi",
+          "poli-anak",
+          "NICU",
+          "gawat-darurat",
+          "radiologi"
+        ],
+        "emergency": true,
+        "phone": "+2588613752",
+        "website": "https://rs190.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.938955,
+          -2.218574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP191",
+        "name": "RSUD Mata Palangkaraya 191",
+        "type": "Mata",
+        "beds": 102,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.131, Palangkaraya",
+        "facilities": [
+          "poli-gigi",
+          "radiologi",
+          "laboratorium",
+          "ICU",
+          "hemodialisa",
+          "bedah",
+          "poli-anak",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+7803427138",
+        "website": "https://rs191.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.94383,
+          -2.192994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP192",
+        "name": "RSU Ibu dan Anak Palangkaraya 192",
+        "type": "Ibu dan Anak",
+        "beds": 113,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.187, Palangkaraya",
+        "facilities": [
+          "poli-kandungan",
+          "rehabilitasi",
+          "poli-gigi",
+          "poli-anak",
+          "radiologi",
+          "bedah",
+          "ICU",
+          "farmasi",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+3369359456",
+        "website": "https://rs192.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.940255,
+          -2.217845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP193",
+        "name": "RS Paru Palangkaraya 193",
+        "type": "Paru",
+        "beds": 315,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.156, Palangkaraya",
+        "facilities": [
+          "poli-kandungan",
+          "farmasi",
+          "radiologi",
+          "hemodialisa",
+          "rehabilitasi",
+          "gawat-darurat",
+          "PICU",
+          "NICU",
+          "laboratorium"
+        ],
+        "emergency": true,
+        "phone": "+6465871571",
+        "website": "https://rs193.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.978311,
+          -2.244365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP194",
+        "name": "RSU Jiwa Palangkaraya 194",
+        "type": "Jiwa",
+        "beds": 115,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.150, Palangkaraya",
+        "facilities": [
+          "bedah",
+          "PICU",
+          "poli-kandungan",
+          "poli-gigi",
+          "laboratorium"
+        ],
+        "emergency": true,
+        "phone": "+2366278124",
+        "website": "https://rs194.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.931635,
+          -2.205521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP195",
+        "name": "RS Paru Palangkaraya 195",
+        "type": "Paru",
+        "beds": 453,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.14, Palangkaraya",
+        "facilities": [
+          "ICU",
+          "bedah",
+          "poli-anak",
+          "radiologi",
+          "laboratorium",
+          "rehabilitasi",
+          "poli-umum",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+7770922400",
+        "website": "https://rs195.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.913795,
+          -2.246963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP196",
+        "name": "RS Paru Palangkaraya 196",
+        "type": "Paru",
+        "beds": 308,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.38, Palangkaraya",
+        "facilities": [
+          "radiologi",
+          "hemodialisa",
+          "poli-umum",
+          "bedah",
+          "rehabilitasi",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+2846998203",
+        "website": "https://rs196.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.967948,
+          -2.191694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP197",
+        "name": "RS Mata Palangkaraya 197",
+        "type": "Mata",
+        "beds": 140,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.108, Palangkaraya",
+        "facilities": [
+          "ICU",
+          "gawat-darurat",
+          "bedah",
+          "laboratorium",
+          "NICU",
+          "poli-umum",
+          "rehabilitasi",
+          "poli-kandungan"
+        ],
+        "emergency": true,
+        "phone": "+4932464245",
+        "website": "https://rs197.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.920193,
+          -2.193073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP198",
+        "name": "RSUD Umum Palangkaraya 198",
+        "type": "Umum",
+        "beds": 292,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.144, Palangkaraya",
+        "facilities": [
+          "bedah",
+          "gawat-darurat",
+          "laboratorium",
+          "poli-gigi",
+          "NICU",
+          "poli-anak",
+          "poli-umum"
+        ],
+        "emergency": true,
+        "phone": "+1424801558",
+        "website": "https://rs198.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.916081,
+          -2.228814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP199",
+        "name": "RS Orthopedi Palangkaraya 199",
+        "type": "Orthopedi",
+        "beds": 470,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.125, Palangkaraya",
+        "facilities": [
+          "NICU",
+          "poli-anak",
+          "hemodialisa",
+          "farmasi",
+          "poli-kandungan",
+          "ICU",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+9313621280",
+        "website": "https://rs199.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.901932,
+          -2.215305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP200",
+        "name": "RS Umum Palangkaraya 200",
+        "type": "Umum",
+        "beds": 380,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.159, Palangkaraya",
+        "facilities": [
+          "hemodialisa",
+          "farmasi",
+          "PICU",
+          "radiologi",
+          "ICU",
+          "poli-umum"
+        ],
+        "emergency": true,
+        "phone": "+6047702606",
+        "website": "https://rs200.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.903611,
+          -2.244758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP201",
+        "name": "RSUD Orthopedi Palangkaraya 201",
+        "type": "Orthopedi",
+        "beds": 446,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.40, Palangkaraya",
+        "facilities": [
+          "rehabilitasi",
+          "poli-umum",
+          "ICU",
+          "bedah",
+          "poli-anak",
+          "radiologi",
+          "poli-kandungan"
+        ],
+        "emergency": true,
+        "phone": "+1385289014",
+        "website": "https://rs201.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.927274,
+          -2.202987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP202",
+        "name": "RSUD Orthopedi Palangkaraya 202",
+        "type": "Orthopedi",
+        "beds": 498,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.197, Palangkaraya",
+        "facilities": [
+          "rehabilitasi",
+          "NICU",
+          "poli-kandungan",
+          "poli-gigi",
+          "laboratorium",
+          "farmasi",
+          "radiologi",
+          "PICU",
+          "poli-umum"
+        ],
+        "emergency": true,
+        "phone": "+5128252373",
+        "website": "https://rs202.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.944328,
+          -2.240616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP203",
+        "name": "RSU Bedah Palangkaraya 203",
+        "type": "Bedah",
+        "beds": 249,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.181, Palangkaraya",
+        "facilities": [
+          "poli-gigi",
+          "radiologi",
+          "NICU",
+          "PICU",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+9598593693",
+        "website": "https://rs203.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.923793,
+          -2.219652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP204",
+        "name": "RSU Bedah Palangkaraya 204",
+        "type": "Bedah",
+        "beds": 119,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.115, Palangkaraya",
+        "facilities": [
+          "poli-gigi",
+          "radiologi",
+          "laboratorium",
+          "PICU",
+          "hemodialisa",
+          "gawat-darurat",
+          "NICU",
+          "rehabilitasi",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+3236772964",
+        "website": "https://rs204.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.980745,
+          -2.24622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP205",
+        "name": "RSUD Jantung Palangkaraya 205",
+        "type": "Jantung",
+        "beds": 78,
+        "accreditation": "B",
+        "address": "Jl. Kesehatan No.9, Palangkaraya",
+        "facilities": [
+          "poli-kandungan",
+          "rehabilitasi",
+          "farmasi",
+          "poli-anak",
+          "NICU"
+        ],
+        "emergency": true,
+        "phone": "+5097292363",
+        "website": "https://rs205.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.967519,
+          -2.226918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP206",
+        "name": "RS Umum Palangkaraya 206",
+        "type": "Umum",
+        "beds": 67,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.18, Palangkaraya",
+        "facilities": [
+          "poli-anak",
+          "hemodialisa",
+          "farmasi",
+          "poli-gigi",
+          "ICU",
+          "PICU"
+        ],
+        "emergency": true,
+        "phone": "+5594772195",
+        "website": "https://rs206.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.95586,
+          -2.20823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP207",
+        "name": "RSU Anak Palangkaraya 207",
+        "type": "Anak",
+        "beds": 137,
+        "accreditation": "C",
+        "address": "Jl. Kesehatan No.28, Palangkaraya",
+        "facilities": [
+          "gawat-darurat",
+          "PICU",
+          "farmasi",
+          "laboratorium",
+          "hemodialisa",
+          "poli-gigi"
+        ],
+        "emergency": true,
+        "phone": "+5620568082",
+        "website": "https://rs207.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.94054,
+          -2.236447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HSPP208",
+        "name": "RS Bedah Palangkaraya 208",
+        "type": "Bedah",
+        "beds": 351,
+        "accreditation": "A",
+        "address": "Jl. Kesehatan No.31, Palangkaraya",
+        "facilities": [
+          "bedah",
+          "poli-anak",
+          "NICU",
+          "gawat-darurat",
+          "poli-kandungan",
+          "rehabilitasi",
+          "PICU",
+          "poli-gigi",
+          "farmasi"
+        ],
+        "emergency": true,
+        "phone": "+7247516717",
+        "website": "https://rs208.palangkaraya.id"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.985936,
+          -2.203506
+        ]
+      }
+    }
+  ]
+}

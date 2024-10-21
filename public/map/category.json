@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "properties",
+    "title": "Properties",
+    "order": 1,
+    "enable": true
+  },
+  {
+    "id": 2,
+    "name": "infrastructure",
+    "title": "Infrastructure",
+    "order": 2,
+    "enable": true
+  },
+  {
+    "id": 3,
+    "name": "amenities",
+    "title": "Amenities",
+    "order": 3,
+    "enable": true
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "enable": false,
+    "default": false,
+    "title": "Satellite",
+    "type": "BasemapId",
+    "BasemapId": "satellite"
+  },
+  {
+    "id": 2,
+    "enable": false,
+    "default": false,
+    "title": "Hybrid",
+    "type": "BasemapId",
+    "BasemapId": "hybrid"
+  },
+  {
+    "id": 3,
+    "enable": false,
+    "default": false,
+    "title": "Oceans",
+    "type": "BasemapId",
+    "BasemapId": "oceans"
+  },
+  {
+    "id": 4,
+    "enable": false,
+    "default": false,
+    "title": "OSM",
+    "type": "BasemapId",
+    "BasemapId": "oceans"
+  },
+  {
+    "id": 5,
+    "enable": false,
+    "default": false,
+    "title": "Terrain",
+    "type": "BasemapId",
+    "BasemapId": "terrain"
+  },
+  {
+    "id": 6,
+    "enable": false,
+    "default": false,
+    "title": "Dark Gray",
+    "type": "BasemapId",
+    "BasemapId": "dark-gray-vector"
+  },
+  {
+    "id": 7,
+    "enable": false,
+    "default": false,
+    "title": "Gray",
+    "type": "BasemapId",
+    "BasemapId": "gray-vector"
+  },
+  {
+    "id": 8,
+    "enable": true,
+    "default": true,
+    "title": "Streets",
+    "type": "BasemapId",
+    "BasemapId": "streets-vector"
+  },
+  {
+    "id": 9,
+    "enable": false,
+    "default": false,
+    "title": "Streets Night",
+    "type": "BasemapId",
+    "BasemapId": "streets-night-vector"
+  },
+  {
+    "id": 10,
+    "enable": false,
+    "default": false,
+    "title": "Streets Navigation",
+    "type": "BasemapId",
+    "BasemapId": "streets-navigation-vector"
+  },
+  {
+    "id": 11,
+    "enable": false,
+    "default": false,
+    "title": "Topo",
+    "type": "BasemapId",
+    "BasemapId": "topo-vector"
+  },
+  {
+    "id": 12,
+    "enable": false,
+    "default": false,
+    "title": "Streets Relief",
+    "type": "BasemapId",
+    "BasemapId": "streets-relief-vector"
+  }
+]
