@@ -27,9 +27,7 @@ export const useMapLayerControlStore = defineStore('layerControl', () => {
     cCategory.value.forEach((category) => {
       const { id, ...rest } = category
       const layers = cLayers.value.filter((layer) => layer.category === category.name)
-      const layersEnabled = layers.every((layer) => layer.isVisible)
-      let enable = true
-      if (!layersEnabled) enable = false
+      const enable = layers.some(layer => layer.isVisible === true)
 
       groupedLayers[id] = {
         ...rest,
@@ -68,11 +66,20 @@ export const useMapLayerControlStore = defineStore('layerControl', () => {
   const toggleCategoryVisibility = async (category) => {
     try {
       const categoryLayers = cLayersByCategory.value[category].layers;
-      for (const layer of categoryLayers) {
-        await layerStore.toggleLayer({
-          layerId: layer.id,
-          force: !layerStore.src[layer.id].show,
-        });
+      if (categoryLayers.some((layer) => layer.isVisible === true)) {
+        for (const layer of categoryLayers) {
+          await layerStore.toggleLayer({
+            layerId: layer.id,
+            force: false,
+          });
+        }
+      } else if (categoryLayers.every((layer) => layer.isVisible === false)) {
+        for (const layer of categoryLayers) {
+          await layerStore.toggleLayer({
+            layerId: layer.id,
+            force: true,
+          });
+        }
       }
     } catch (error) {
       console.error('Error toggling category visibility:', error);
