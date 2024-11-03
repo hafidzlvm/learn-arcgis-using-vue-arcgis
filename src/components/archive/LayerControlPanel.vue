@@ -1,6 +1,6 @@
 <!-- components/layer-control/LayerControlPanel.vue -->
 <script setup>
-import { useLayerControlStore } from '@/stores/useLayerControl'
+import { useLayerControlStore } from '@/stores/useMapLayerControl'
 import LayerOpacitySlider from './LayerOpacitySlider.vue'
 import LayerOrderList from './LayerOrderList.vue'
 import { storeToRefs } from 'pinia'
@@ -58,11 +58,11 @@ const {
             </div>
 
             <!-- Opacity Control -->
-            <LayerOpacitySlider 
+            <!-- <LayerOpacitySlider 
               :layer-id="layer.id"
               :opacity="layerOpacityRef[layer.id]"
               @update:opacity="store.setLayerOpacity(layer.id, $event)"
-            />
+            /> -->
           </div>
         </div>
       </div>

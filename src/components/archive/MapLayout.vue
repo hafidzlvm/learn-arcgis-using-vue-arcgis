@@ -1,7 +1,7 @@
 <script setup>
-import MapNavigationPanel from '../layouts/MapNavigationPanel.vue'
+import MapNavigationPanel from '../layouts/MapNavigation.vue'
 import MapHeader from '../layouts/MapHeader.vue'
-import MapControlBar from '../layouts/MapControlBar.vue'
+import MapControlBar from '../layouts/MapNavigation.vue'
 import Map from '../Map.vue'
 import { ref } from 'vue'
 

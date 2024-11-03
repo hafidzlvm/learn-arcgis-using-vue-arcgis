@@ -1,56 +1,59 @@
 <script setup>
-import { VueGIS, useMapStore, useLayerStore } from '@musasutisna/vue-gis'
-import { usePopupStore } from '@/stores/usePopup'
-import { onUnmounted } from 'vue';
+import { onMounted, ref } from 'vue';
+import { useConfigStore } from '@musasutisna/vue-gis/stores/config.js';
+import { useCategoryStore } from '@musasutisna/vue-gis/stores/category.js';
+import { useGroupStore } from '@musasutisna/vue-gis/stores/group.js';
+import { useBasemapStore } from '@musasutisna/vue-gis/stores/basemap.js';
+import { useLayerStore } from '@musasutisna/vue-gis/stores/layer.js';
+import { useLegendStore } from '@musasutisna/vue-gis/stores/legend.js';
+import { useMapStore } from '@musasutisna/vue-gis/stores/map.js';
 
-const mapStore = useMapStore()
-const popupStore = usePopupStore()
+import { 
+  useMapPopupStore,
+  useMapZoomStore
+} from '@/stores';
 
-function mapReady() {
-  mapStore.toAddEvent('drag', (e, arcgis) => {
-    handleEventPopup(arcgis)
-  })
+const config = useConfigStore();
+const category = useCategoryStore();
+// const group = useGroupStore();
+const basemap = useBasemapStore();
+const layer = useLayerStore();
+// const legend = useLegendStore(); 
+const map = useMapStore();
+const domMap = ref(null);
 
-  mapStore.toAddEvent('mouse-wheel', (e, arcgis) => {
-    handleEventPopup(arcgis)
-  })
+const popupStore = useMapPopupStore();
+const zoomStore = useMapZoomStore();
 
-  mapStore.toAddWatch('extent', (e, arcgis) => {
-    handleEventPopup(arcgis)
-  })
+onMounted(async () => {
+  await config.toLoadConfigFile();
+  await category.toLoadCategoryFile();
+  // await group.toLoadGroupFile();
+  await basemap.toLoadBasemapFile();
+  await layer.toLoadLayerFile(window.config.MAP_URL_LAYER_FILE);
+  await map.toInitMap(domMap.value);
+  await basemap.toLoadDefaultBasemap();
+  await layer.toLoadEnableLayer();
+  // await legend.toLoadLegendFile(); 
 
-  mapStore.toAddEvent('click', (event, arcgis) => {
-    arcgis.view.hitTest(event).then(response => {
-      if (response.results.length) {
-        const feature = response.results[0].graphic
-        const screenPoint = { x: event.x, y: event.y }
-        const position = { x: event.mapPoint.x, y: event.mapPoint.y }
-        popupStore.show(screenPoint,  position, feature.attributes)
-      } else {
-        popupStore.hide()
-      }
-    })    
-  })
-
-}
-
-function handleEventPopup(arcgis){
-  if (popupStore.isVisibleRef && popupStore.coordinatePosRef) {
-    const screenPos = arcgis.view.toScreen(popupStore.coordinatePosRef)
-    popupStore.update(screenPos);
-  }
-}
-
-onUnmounted(() => {
-  popupStore.hide()
-})
+  popupStore.initializeStore();
+  zoomStore.initializeStore();
+});
 </script>
 <template>
-  <VueGIS class="w-full h-full inset-0 absolute z-0" @ready="mapReady" />
+  <div class="w-full h-full inset-0 absolute z-0">
+    <div ref="domMap" />
+  </div>
 </template>
 
 <style scoped>
-.esri-attribution {
+/* remove border outline map */
+.esri-view {
+  --esri-view-outline-color: none !important;
+  --esri-view-outline: 0;
+  --esri-view-outline-offset: 0;
+}
+::-webkit-scrollbar {
   display: none;
 }
 </style>

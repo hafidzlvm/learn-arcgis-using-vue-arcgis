@@ -1,7 +1,7 @@
 <script setup>
-import { usePopupStore } from '@/stores/usePopup'
+import { useMapPopupStore } from '@/stores/useMapPopup'
 
-const store = usePopupStore()
+const store = useMapPopupStore()
 </script>
 
 <template>

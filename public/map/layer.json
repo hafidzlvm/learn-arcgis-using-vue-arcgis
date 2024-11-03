@@ -78,5 +78,34 @@
       },
       "outFields": ["*"]
     }
+  },
+  {
+    "id": 4,
+    "category": "infrastructure",
+    "group": "parks",
+    "enable": true,
+    "show": true,
+    "title": "Parks",
+    "type": "GeojsonLayer",
+    "content": "polygon",
+    "zindex": 0,
+    "main_order": 4,
+    "category_order": 1,
+    "group_order": 1,
+    "GeojsonLayer": {
+      "url": "/api/idn.geojson",
+      "renderer": {
+        "type": "simple",
+        "symbol": {
+          "type": "simple-fill",
+          "color": "#a8e6cf",
+          "outline": {
+            "color": "#000000",
+            "width": "1px"
+          }
+        }
+      },
+      "outFields": ["*"]
+    }
   }
 ]

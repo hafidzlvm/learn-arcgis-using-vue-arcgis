@@ -9,3 +9,4 @@ window.config = {
 }
 
 export default window.config
+export { ConstantLod } from './constantLod'

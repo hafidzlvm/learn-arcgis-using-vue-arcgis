@@ -1,9 +1,10 @@
 <script setup>
 import Map from '@/components/Map.vue';
-import PopupTesting from '@/components/popup/PopupTesting.vue';
+import Popup from '@/components/popup/Popup.vue';
 import MapHeader from '@/components/layouts/MapHeader.vue';
-import MapNavigationPanel from '@/components/layouts/MapNavigationPanel.vue';
-import MapControlBar from '@/components/layouts/MapControlBar.vue';
+import MapSidebar from '@/components/layouts/MapSidebar.vue';
+import MapNavigation from '@/components/layouts/MapNavigation.vue';
+import MapNavigationLayer from '@/components/layouts/MapNavigationLayer.vue';
 
 import { ref } from 'vue';
 
@@ -14,11 +15,12 @@ const toggleNav = () => {
 };
 </script>
 <template>
-  <MapNavigationPanel v-on:toggle="toggleNav" :is-open="isNavOpenRef" />
+  <MapSidebar v-on:toggle="toggleNav" :is-open="isNavOpenRef" />
   <MapHeader :class="[isNavOpenRef ? 'ml-64' : 'ml-16']" />
-  <MapControlBar/>
-  
+  <MapNavigation />
+  <MapNavigationLayer/>
+
   <Map />
 
-  <PopupTesting />
+  <Popup />
 </template>

@@ -2,8 +2,8 @@
   "EsriConfig": {
   },
   "MapView": {
-    "zoom": 5,
-    "scale": 140000,
+    "zoom": 12,
+    "scale": 288895,
     "center": [106.816666, -6.200000]
   }
 }
